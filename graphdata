@@ -1,0 +1,5475 @@
+{
+  "type": "graphdata",
+  "data": {
+    "nodes": [
+      {
+        "tags": [
+          "computation",
+          "computer",
+          "calculation",
+          "arithmetic",
+          "mathematics"
+        ],
+        "properties": {
+          "CATEGORY": "20240417140019-computation",
+          "CTIME": "20240417140019",
+          "MTIME": "20240419042725",
+          "ID": "00775a4b-e515-42f1-896d-eae818f77481",
+          "BLOCKED": "",
+          "ALLTAGS": ":computation:computer:calculation:arithmetic:mathematics:",
+          "FILE": "/home/deck/Documents/org-roam/20240417140019-computation.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Computation",
+        "file": "/home/deck/Documents/org-roam/20240417140019-computation.org",
+        "id": "00775a4b-e515-42f1-896d-eae818f77481"
+      },
+      {
+        "tags": [
+          "Dailies",
+          "Weeklies",
+          "Monthlies",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201005205550-journal_main",
+          "CTIME": "20201005205550",
+          "MTIME": "20240419042726 20240311002131",
+          "ROAM_ALIASES": "Journal",
+          "ID": "00994f71-0709-4af9-ac22-1e820f281cb0",
+          "BLOCKED": "",
+          "ALLTAGS": ":Dailies:Weeklies:Monthlies:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201005205550-journal_main.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Journal Main",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201005205550-journal_main.org",
+        "id": "00994f71-0709-4af9-ac22-1e820f281cb0"
+      },
+      {
+        "tags": [
+          "#artificial_intelligence",
+          "#robert_miles",
+          "#utility_function",
+          "#world_states"
+        ],
+        "properties": {
+          "CATEGORY": "151_what_s_the_use_of_utility_functions_youtube",
+          "CTIME": "20240320202926",
+          "MTIME": "20240419042726 20240320202926",
+          "ROAM_REFS": "https://www.youtube.com/watch?v=8AvIErXFoH8",
+          "ID": "00c7e9d1-76cd-4801-883a-11c576b08596",
+          "BLOCKED": "",
+          "ALLTAGS": ":#artificial_intelligence:#robert_miles:#utility_function:#world_states:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/151_what_s_the_use_of_utility_functions_youtube.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "What's the Use of Utility Functions? - YouTube",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/151_what_s_the_use_of_utility_functions_youtube.org",
+        "id": "00c7e9d1-76cd-4801-883a-11c576b08596"
+      },
+      {
+        "tags": [
+          "math",
+          "circle",
+          "trigonometry",
+          "mathematics",
+          "right_triangle",
+          "sine",
+          "cosine",
+          "tangent",
+          "cotangent"
+        ],
+        "properties": {
+          "CATEGORY": "20240429132220-unit_circle",
+          "CTIME": "20240429132220",
+          "MTIME": "20240429132628",
+          "ID": "0c0ade61-f327-45b8-bfce-2a9ea38bbede",
+          "BLOCKED": "",
+          "ALLTAGS": ":math:circle:trigonometry:mathematics:right_triangle:sine:cosine:tangent:cotangent:",
+          "FILE": "/home/deck/Documents/org-roam/20240429132220-unit_circle.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "unit circle",
+        "file": "/home/deck/Documents/org-roam/20240429132220-unit_circle.org",
+        "id": "0c0ade61-f327-45b8-bfce-2a9ea38bbede"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April",
+          "board_game"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-12",
+          "CTIME": "20240412090147",
+          "MTIME": "20240419042726 20240412090147",
+          "ID": "0fe1be02-1b4d-433b-b231-3f9eb7c30f8c",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:board_game:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-12.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-12",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-12.org",
+        "id": "0fe1be02-1b4d-433b-b231-3f9eb7c30f8c"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_16",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201016",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042727 20240311002134",
+          "ROAM_ALIASES": "10/16/2020 20201016 \"October 16, 2020\"",
+          "ID": "13f7c07c-1999-4067-b65e-408977e99b40",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_16:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201016.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 16",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201016.org",
+        "id": "13f7c07c-1999-4067-b65e-408977e99b40"
+      },
+      {
+        "tags": [
+          "color",
+          "light_spectrum",
+          "wavelength",
+          "physics",
+          "elctromagnetism",
+          "elctromagnetic_spectrum"
+        ],
+        "properties": {
+          "CATEGORY": "20240327074506-spectral_colors",
+          "CTIME": "20240327074506",
+          "MTIME": "20240419042727 20240327074740",
+          "ID": "175c332b-8650-4375-ad83-21b28bd00ef9",
+          "BLOCKED": "",
+          "ALLTAGS": ":color:light_spectrum:wavelength:physics:elctromagnetism:elctromagnetic_spectrum:",
+          "FILE": "/home/deck/Documents/org-roam/20240327074506-spectral_colors.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Spectral colors",
+        "file": "/home/deck/Documents/org-roam/20240327074506-spectral_colors.org",
+        "id": "175c332b-8650-4375-ad83-21b28bd00ef9"
+      },
+      {
+        "tags": [
+          "brian_eno",
+          "music_producer",
+          "music_production"
+        ],
+        "properties": {
+          "CATEGORY": "20240329222611-brian_eno",
+          "CTIME": "20240329222611",
+          "MTIME": "20240419042727 20240329222658",
+          "ID": "17e4cb1f-aa99-4071-947e-519a77e1ae87",
+          "BLOCKED": "",
+          "ALLTAGS": ":brian_eno:music_producer:music_production:",
+          "FILE": "/home/deck/Documents/org-roam/20240329222611-brian_eno.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Brian Eno",
+        "file": "/home/deck/Documents/org-roam/20240329222611-brian_eno.org",
+        "id": "17e4cb1f-aa99-4071-947e-519a77e1ae87"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024_Year",
+          "CTIME": "20240417153419",
+          "MTIME": "20240419042727 20240417153419",
+          "ID": "18ee20c9-41b1-42b5-9e44-26277a5bfa33",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/yearly/2024/2024_Year.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024_Year",
+        "file": "/home/deck/Documents/org-roam/daily/yearly/2024/2024_Year.org",
+        "id": "18ee20c9-41b1-42b5-9e44-26277a5bfa33"
+      },
+      {
+        "tags": [
+          "loudspeaker",
+          "speaker",
+          "audio",
+          "pa_system",
+          "public_address",
+          "sound_reinforcement"
+        ],
+        "properties": {
+          "CATEGORY": "20240327200313-loudspeaker",
+          "ID": "18f8ebca-7a60-4de0-9133-75b10990c689",
+          "BLOCKED": "",
+          "ALLTAGS": ":loudspeaker:speaker:audio:pa_system:public_address:sound_reinforcement:",
+          "FILE": "/home/deck/Documents/org-roam/20240327200313-loudspeaker.org",
+          "PRIORITY": "B",
+          "ITEM": "loudspeakers by power amplifications"
+        },
+        "olp": [
+          "Types"
+        ],
+        "pos": 429,
+        "level": 2,
+        "title": "loudspeakers by power amplifications",
+        "file": "/home/deck/Documents/org-roam/20240327200313-loudspeaker.org",
+        "id": "18f8ebca-7a60-4de0-9133-75b10990c689"
+      },
+      {
+        "tags": [
+          "graphics",
+          "parallel_processing",
+          "gpu",
+          "graphics_processing_unit",
+          "STUB"
+        ],
+        "properties": {
+          "CATEGORY": "20240323081539-graphics_processing_unit",
+          "CTIME": "20240323081539",
+          "MTIME": "20240419042727 20240417164920",
+          "ROAM_ALIASES": "GPU",
+          "ID": "1aaddec5-7288-4492-bab8-692098a50a58",
+          "BLOCKED": "",
+          "ALLTAGS": ":graphics:parallel_processing:gpu:graphics_processing_unit:STUB:",
+          "FILE": "/home/deck/Documents/org-roam/20240323081539-graphics_processing_unit.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Graphics processing unit",
+        "file": "/home/deck/Documents/org-roam/20240323081539-graphics_processing_unit.org",
+        "id": "1aaddec5-7288-4492-bab8-692098a50a58"
+      },
+      {
+        "tags": [
+          "caring",
+          "compassion",
+          "einfühlung",
+          "empathy",
+          "entscheidungsfindung",
+          "psychology",
+          "psychology/social_psychology",
+          "social_psychology",
+          "social_science",
+          "social_science/sociology",
+          "sociology"
+        ],
+        "properties": {
+          "CATEGORY": "bloomEmpathyCaseRational2016",
+          "CTIME": "20240322011252",
+          "MTIME": "20240419042727 20240322011252",
+          "ROAM_REFS": "@bloomEmpathyCaseRational2016",
+          "ID": "1aaec11d-8414-445e-9c69-180722ef09a2",
+          "BLOCKED": "",
+          "ALLTAGS": ":caring:compassion:einfühlung:empathy:entscheidungsfindung:psychology:psychology/social_psychology:social_psychology:social_science:social_science/sociology:sociology:",
+          "FILE": "/home/deck/Documents/org-roam/references/bloomEmpathyCaseRational2016.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Bloom, Paul - Against Empathy: The Case for Rational Compassion",
+        "file": "/home/deck/Documents/org-roam/references/bloomEmpathyCaseRational2016.org",
+        "id": "1aaec11d-8414-445e-9c69-180722ef09a2"
+      },
+      {
+        "tags": [
+          "computer",
+          "video",
+          "display",
+          "interface",
+          "rgb"
+        ],
+        "properties": {
+          "CATEGORY": "20240323221851-display_monitor",
+          "CTIME": "20240323221851",
+          "MTIME": "20240419042728 20240326202915",
+          "ROAM_ALIASES": "\"display monitor\" \"display monitors\"",
+          "ID": "1c2021de-b9da-4923-99ec-fded17c2ad4c",
+          "BLOCKED": "",
+          "ALLTAGS": ":computer:video:display:interface:rgb:",
+          "FILE": "/home/deck/Documents/org-roam/20240323221851-display_monitor.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Display Monitor",
+        "file": "/home/deck/Documents/org-roam/20240323221851-display_monitor.org",
+        "id": "1c2021de-b9da-4923-99ec-fded17c2ad4c"
+      },
+      {
+        "tags": [
+          "controller",
+          "audio",
+          "video",
+          "lighting"
+        ],
+        "properties": {
+          "CATEGORY": "20240322204456-performance_console",
+          "CTIME": "20240322204456",
+          "MTIME": "20240419042728 20240322205631",
+          "ID": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a",
+          "BLOCKED": "",
+          "ALLTAGS": ":controller:audio:video:lighting:",
+          "FILE": "/home/deck/Documents/org-roam/20240322204456-performance_console.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Performance Console",
+        "file": "/home/deck/Documents/org-roam/20240322204456-performance_console.org",
+        "id": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a"
+      },
+      {
+        "tags": [
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "2020-10-05",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042728 20240311002134",
+          "ID": "1ee7ef11-c5b5-4062-841c-e57deb89485e",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2020-10-05.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020-10-05",
+        "file": "/home/deck/Documents/org-roam/daily/2020-10-05.org",
+        "id": "1ee7ef11-c5b5-4062-841c-e57deb89485e"
+      },
+      {
+        "tags": [
+          "connection",
+          "zettelkasten",
+          "niklas_luhmann",
+          "research",
+          "creativity",
+          "note_taking"
+        ],
+        "properties": {
+          "CATEGORY": "20220505035527-zettelkasten",
+          "CTIME": "20220505035527",
+          "MTIME": "20240419042728 20240321060112",
+          "ID": "1f2728d2-482f-4e66-98b5-ca7348c55e44",
+          "BLOCKED": "",
+          "ALLTAGS": ":connection:zettelkasten:niklas_luhmann:research:creativity:note_taking:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/20220505035527-zettelkasten.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Zettelkasten",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/20220505035527-zettelkasten.org",
+        "id": "1f2728d2-482f-4e66-98b5-ca7348c55e44"
+      },
+      {
+        "tags": [
+          "electricity",
+          "electrical_power",
+          "three_phase"
+        ],
+        "properties": {
+          "CATEGORY": "20240429095248-3_phase_power",
+          "ROAM_ALIASES": "\"three-phase power\"",
+          "CTIME": "20240429095248",
+          "MTIME": "20240429131642 20240429120007 20240429102349",
+          "ID": "21cd2a48-a9bb-4564-b42d-6c94b583f0a8",
+          "BLOCKED": "",
+          "ALLTAGS": ":electricity:electrical_power:three_phase:",
+          "FILE": "/home/deck/Documents/org-roam/20240429095248-3_phase_power.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "3-phase power",
+        "file": "/home/deck/Documents/org-roam/20240429095248-3_phase_power.org",
+        "id": "21cd2a48-a9bb-4564-b42d-6c94b583f0a8"
+      },
+      {
+        "tags": [
+          "STUB",
+          "dodie",
+          "threesome",
+          "love",
+          "in_the_middle_dodie",
+          "you_dodie"
+        ],
+        "properties": {
+          "CATEGORY": "20240328233959-in_the_middle_dodie_you_2017",
+          "CTIME": "20240328233959",
+          "MTIME": "20240419042728 20240330001212",
+          "ID": "23040329-bfd1-4a56-acf7-d5362a26bd1d",
+          "BLOCKED": "",
+          "ALLTAGS": ":STUB:dodie:threesome:love:in_the_middle_dodie:you_dodie:",
+          "FILE": "/home/deck/Documents/org-roam/music/20240328233959-in_the_middle_dodie_you_2017.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "In the Middle - Dodie - You (2017)",
+        "file": "/home/deck/Documents/org-roam/music/20240328233959-in_the_middle_dodie_you_2017.org",
+        "id": "23040329-bfd1-4a56-acf7-d5362a26bd1d"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_12",
+          "Journal",
+          "COVID_19",
+          "Coronavirus"
+        ],
+        "properties": {
+          "CATEGORY": "20201012",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042729 20240311002134",
+          "ROAM_ALIASES": "10/12/2020 20201012 \"October 12, 2020\"",
+          "ID": "2378096a-cb6c-4bca-b4b7-0bfbc9a1f955",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_12:Journal:COVID_19:Coronavirus:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201012.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 12",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201012.org",
+        "id": "2378096a-cb6c-4bca-b4b7-0bfbc9a1f955"
+      },
+      {
+        "tags": [
+          "Project"
+        ],
+        "properties": {
+          "CATEGORY": "20240318224405-test_project",
+          "CTIME": "20240318224405",
+          "MTIME": "20240419042729 20240318224652",
+          "ID": "25b0b454-6ad0-4ece-9672-da108bfa8ab5",
+          "BLOCKED": "",
+          "ALLTAGS": ":Project:",
+          "FILE": "/home/deck/Documents/org-roam/20240318224405-test_project.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Test Project",
+        "file": "/home/deck/Documents/org-roam/20240318224405-test_project.org",
+        "id": "25b0b454-6ad0-4ece-9672-da108bfa8ab5"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_March",
+          "2024",
+          "March"
+        ],
+        "properties": {
+          "CATEGORY": "2024-03-26",
+          "CTIME": "20240417145602",
+          "MTIME": "20240419042729 20240417145602",
+          "ID": "2628f95e-6d70-43b6-9969-0af2e37ae7a2",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_March:2024:March:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-03-26.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-03-26",
+        "file": "/home/deck/Documents/org-roam/daily/2024-03-26.org",
+        "id": "2628f95e-6d70-43b6-9969-0af2e37ae7a2"
+      },
+      {
+        "tags": [
+          "#utility_function",
+          "sin",
+          "sinusoid",
+          "cos",
+          "sine",
+          "cosine",
+          "waves"
+        ],
+        "properties": {
+          "CATEGORY": "20240430095759-sin_and_cos",
+          "ROAM_ALIASES": "cosine sine",
+          "ID": "26f87673-2230-422b-b3e5-82614371be1d",
+          "BLOCKED": "",
+          "ALLTAGS": ":#utility_function:sin:sinusoid:cos:sine:cosine:waves:",
+          "FILE": "/home/deck/Documents/org-roam/20240430095759-sin_and_cos.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "sin and cos",
+        "file": "/home/deck/Documents/org-roam/20240430095759-sin_and_cos.org",
+        "id": "26f87673-2230-422b-b3e5-82614371be1d"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-02",
+          "CTIME": "20240402211139",
+          "MTIME": "20240419042729 20240402211139",
+          "ID": "2913c932-ad80-4d60-a3bf-a1a515811c9b",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-02.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-02",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-02.org",
+        "id": "2913c932-ad80-4d60-a3bf-a1a515811c9b"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "operation",
+          "succession",
+          "successor",
+          "peano_arithmetic",
+          "arithmetic"
+        ],
+        "properties": {
+          "CATEGORY": "20240502211308-successor_function",
+          "ROAM_ALIASES": "\"successor function\"",
+          "ID": "29c0e899-9926-4809-8459-98c643753688",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:operation:succession:successor:peano_arithmetic:arithmetic:",
+          "FILE": "/home/deck/Documents/org-roam/20240502211308-successor_function.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "succession",
+        "file": "/home/deck/Documents/org-roam/20240502211308-successor_function.org",
+        "id": "29c0e899-9926-4809-8459-98c643753688"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "arithmetic"
+        ],
+        "properties": {
+          "CATEGORY": "20240321052210-arithmetic",
+          "CTIME": "20240321052210",
+          "MTIME": "20240430151711 20240430135334 20240430125306 20240419042730 20240324181240",
+          "ROAM_ALIASES": "arithmetic",
+          "ID": "2b3a351a-9dc8-411a-84c9-746f49151541",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:arithmetic:",
+          "FILE": "/home/deck/Documents/org-roam/20240321052210-arithmetic.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Arithmetic",
+        "file": "/home/deck/Documents/org-roam/20240321052210-arithmetic.org",
+        "id": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      },
+      {
+        "tags": [
+          "evolution",
+          "biology",
+          "mutation",
+          "natural_selection",
+          "genetic_drift"
+        ],
+        "properties": {
+          "CATEGORY": "20240430110425-evolution",
+          "ID": "3145801f-2756-475d-a934-b10d604de7bb",
+          "BLOCKED": "",
+          "ALLTAGS": ":evolution:biology:mutation:natural_selection:genetic_drift:",
+          "FILE": "/home/deck/Documents/org-roam/20240430110425-evolution.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "evolution",
+        "file": "/home/deck/Documents/org-roam/20240430110425-evolution.org",
+        "id": "3145801f-2756-475d-a934-b10d604de7bb"
+      },
+      {
+        "tags": [
+          "artificial_intelligence",
+          "ai_safety",
+          "computerphile_youtube",
+          "robert_miles",
+          "stop_button_problem"
+        ],
+        "properties": {
+          "CATEGORY": "151_ai_stop_button_problem_computerphile_youtube",
+          "CTIME": "20240417184650",
+          "MTIME": "20240419042754 20240417184650 20240419042730",
+          "ROAM_REFS": "https://www.youtube.com/watch?v=3TYT1QfdfsM&t=918s",
+          "ID": "3346649d-762d-43b1-ba3a-f60be6bcdc71",
+          "BLOCKED": "",
+          "ALLTAGS": ":artificial_intelligence:ai_safety:computerphile_youtube:robert_miles:stop_button_problem:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/151_ai_stop_button_problem_computerphile_youtube.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "AI \"Stop Button\" Problem - Computerphile - YouTube",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/151_ai_stop_button_problem_computerphile_youtube.org",
+        "id": "3346649d-762d-43b1-ba3a-f60be6bcdc71"
+      },
+      {
+        "tags": [
+          "Journal",
+          "September",
+          "2020"
+        ],
+        "properties": {
+          "CATEGORY": "20200924",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042730 20240311002134",
+          "ID": "33a9dc09-c535-490e-8d48-e84c68f9dc15",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:September:2020:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20200924.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20200924.org",
+        "id": "33a9dc09-c535-490e-8d48-e84c68f9dc15"
+      },
+      {
+        "tags": [
+          "Journal",
+          "September",
+          "2020"
+        ],
+        "properties": {
+          "CATEGORY": "20200928",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042730 20240311002134",
+          "ID": "346f278a-3273-4b0b-9981-1f9a5232c4a4",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:September:2020:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20200928.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20200928.org",
+        "id": "346f278a-3273-4b0b-9981-1f9a5232c4a4"
+      },
+      {
+        "tags": [
+          "ai_safety",
+          "videos",
+          "robert_miles",
+          "science_communication",
+          "ai_alignment"
+        ],
+        "properties": {
+          "CATEGORY": "240321Mar031711022053-why_do_i_avoid_sci_fi_youtube",
+          "CTIME": "20240321050030",
+          "MTIME": "20240419042730 20240321050030",
+          "ROAM_REFS": "https://www.youtube.com/watch?v=JVIqp_lIwZg",
+          "ID": "3667d7b1-a6a1-488a-8d84-5c76d4402d7c",
+          "BLOCKED": "",
+          "ALLTAGS": ":ai_safety:videos:robert_miles:science_communication:ai_alignment:",
+          "FILE": "/home/deck/Documents/org-roam/references/240321Mar031711022053-why_do_i_avoid_sci_fi_youtube.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Why Do I Avoid Sci-fi? - YouTube",
+        "file": "/home/deck/Documents/org-roam/references/240321Mar031711022053-why_do_i_avoid_sci_fi_youtube.org",
+        "id": "3667d7b1-a6a1-488a-8d84-5c76d4402d7c"
+      },
+      {
+        "tags": [
+          "bias",
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-04",
+          "CTIME": "20240404213139",
+          "MTIME": "20240419042731 20240404213139",
+          "ID": "3834d085-6a94-4c4f-b836-8c06e0ef20a6",
+          "BLOCKED": "",
+          "ALLTAGS": ":bias:dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-04.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-04",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-04.org",
+        "id": "3834d085-6a94-4c4f-b836-8c06e0ef20a6"
+      },
+      {
+        "tags": [
+          "signal_processing",
+          "mathematics",
+          "sine",
+          "cosine",
+          "sinusoid",
+          "trigonometry",
+          "circle",
+          "sin",
+          "cos"
+        ],
+        "properties": {
+          "CATEGORY": "20240429114627-sinusoid_wave",
+          "CTIME": "20240429114627",
+          "MTIME": "20240429132129 20240429115023",
+          "ID": "387a1422-ff3c-47a9-9ad5-6e5162caaa39",
+          "BLOCKED": "",
+          "ALLTAGS": ":signal_processing:mathematics:sine:cosine:sinusoid:trigonometry:circle:sin:cos:",
+          "FILE": "/home/deck/Documents/org-roam/20240429114627-sinusoid_wave.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "sinusoid wave",
+        "file": "/home/deck/Documents/org-roam/20240429114627-sinusoid_wave.org",
+        "id": "387a1422-ff3c-47a9-9ad5-6e5162caaa39"
+      },
+      {
+        "tags": [
+          "video",
+          "playback",
+          "light",
+          "lens"
+        ],
+        "properties": {
+          "CATEGORY": "20240619103311-projector",
+          "ID": "3ac1a89a-7720-4790-98f6-3722eb4b545c",
+          "BLOCKED": "",
+          "ALLTAGS": ":video:playback:light:lens:",
+          "FILE": "/home/deck/Documents/org-roam/20240619103311-projector.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "projection",
+        "file": "/home/deck/Documents/org-roam/20240619103311-projector.org",
+        "id": "3ac1a89a-7720-4790-98f6-3722eb4b545c"
+      },
+      {
+        "tags": [
+          "chromaticity",
+          "cone_cells",
+          "color_spaces",
+          "color",
+          "photons",
+          "rgb",
+          "hsv",
+          "color_schemes",
+          "luminescence"
+        ],
+        "properties": {
+          "CATEGORY": "kuvinasaydakiAmazingMathColors2022",
+          "CTIME": "20240327075911",
+          "MTIME": "20240419042731 20240327075911",
+          "ROAM_REFS": "@kuvinasaydakiAmazingMathColors2022",
+          "ID": "3bdb6e54-a072-4c06-a1c6-92441fe03a62",
+          "BLOCKED": "",
+          "ALLTAGS": ":chromaticity:cone_cells:color_spaces:color:photons:rgb:hsv:color_schemes:luminescence:",
+          "FILE": "/home/deck/Documents/org-roam/references/kuvinasaydakiAmazingMathColors2022.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Kuvina Saydaki - The Amazing Math behind Colors!",
+        "file": "/home/deck/Documents/org-roam/references/kuvinasaydakiAmazingMathColors2022.org",
+        "id": "3bdb6e54-a072-4c06-a1c6-92441fe03a62"
+      },
+      {
+        "tags": [
+          "recipes",
+          "cooking",
+          "asparagus",
+          "parmesan",
+          "garlic",
+          "olive_oil"
+        ],
+        "properties": {
+          "CATEGORY": "20240330193914-garlic_roasted_asparagus_with_parmesan_recipe_food_com",
+          "CTIME": "20240330193914",
+          "MTIME": "20240419042731 20240331151600",
+          "ROAM_REFS": "https://www.food.com/recipe/garlic-roasted-asparagus-with-parmesan-88945",
+          "ID": "3bfa93fa-984e-4c67-8932-19cc3e5d6937",
+          "BLOCKED": "",
+          "ALLTAGS": ":recipes:cooking:asparagus:parmesan:garlic:olive_oil:",
+          "FILE": "/home/deck/Documents/org-roam/cooking/20240330193914-garlic_roasted_asparagus_with_parmesan_recipe_food_com.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Garlic Roasted Asparagus With Parmesan Recipe - Food.com",
+        "file": "/home/deck/Documents/org-roam/cooking/20240330193914-garlic_roasted_asparagus_with_parmesan_recipe_food_com.org",
+        "id": "3bfa93fa-984e-4c67-8932-19cc3e5d6937"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "operation",
+          "division",
+          "fraction",
+          "ratio"
+        ],
+        "properties": {
+          "CATEGORY": "20240624175430-division",
+          "ID": "3e93ea69-86d7-42b6-97c3-dd5de860d233",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:operation:division:fraction:ratio:",
+          "FILE": "/home/deck/Documents/org-roam/20240624175430-division.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "division",
+        "file": "/home/deck/Documents/org-roam/20240624175430-division.org",
+        "id": "3e93ea69-86d7-42b6-97c3-dd5de860d233"
+      },
+      {
+        "tags": [
+          "power_connector",
+          "power_cable",
+          "stagehand",
+          "stagecraft"
+        ],
+        "properties": {
+          "CATEGORY": "20240321184611-neutrik_powercon",
+          "CTIME": "20240321184611",
+          "MTIME": "20240419042731 20240322053948",
+          "DATA_TYPE": "NA",
+          "DATA_TRANSFER": "NO",
+          "POWER_RATING": "20A 250V",
+          "POWER_TRANSFER": "YES",
+          "ID": "3e9a61d4-5a60-4ec9-8d61-336d28129a62",
+          "BLOCKED": "",
+          "ALLTAGS": ":power_connector:power_cable:stagehand:stagecraft:",
+          "FILE": "/home/deck/Documents/org-roam/20240321184611-neutrik_powercon.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Neutrik powerCon",
+        "file": "/home/deck/Documents/org-roam/20240321184611-neutrik_powercon.org",
+        "id": "3e9a61d4-5a60-4ec9-8d61-336d28129a62"
+      },
+      {
+        "tags": [
+          "chvrches",
+          "hayley_williams",
+          "every_open_eye_chvrches",
+          "music",
+          "song"
+        ],
+        "properties": {
+          "CATEGORY": "20240330201201-bury_it_chvrches_every_open_eye_2016",
+          "CTIME": "20240330201201",
+          "MTIME": "20240419042731 20240330202348",
+          "YEAR": "2016",
+          "ALBUM": "\"Every Open Eye\"",
+          "ARTIST": "\"Chvrches\" , \"Hayley Williams\"",
+          "ID": "3f67cee6-548d-4024-8965-8635490d3d82",
+          "BLOCKED": "",
+          "ALLTAGS": ":chvrches:hayley_williams:every_open_eye_chvrches:music:song:",
+          "FILE": "/home/deck/Documents/org-roam/music/20240330201201-bury_it_chvrches_every_open_eye_2016.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Bury It - Chvrches - Every Open Eye (2016)",
+        "file": "/home/deck/Documents/org-roam/music/20240330201201-bury_it_chvrches_every_open_eye_2016.org",
+        "id": "3f67cee6-548d-4024-8965-8635490d3d82"
+      },
+      {
+        "tags": [
+          "tabletop",
+          "deck_builder"
+        ],
+        "properties": {
+          "CATEGORY": "the_taverns_of_tiefenthal_board_game_boardgamegeek",
+          "CTIME": "20240320202630",
+          "MTIME": "20240419042731 20240320202630",
+          "ROAM_REFS": "https://boardgamegeek.com/boardgame/269207/taverns-tiefenthal",
+          "ID": "3f695d88-e559-4c30-9c69-4e1cc5000580",
+          "BLOCKED": "",
+          "ALLTAGS": ":tabletop:deck_builder:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/the_taverns_of_tiefenthal_board_game_boardgamegeek.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "The Taverns of Tiefenthal | Board Game | BoardGameGeek",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/the_taverns_of_tiefenthal_board_game_boardgamegeek.org",
+        "id": "3f695d88-e559-4c30-9c69-4e1cc5000580"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "finding_unlinked_references_org_roam_user_manual",
+          "CTIME": "20240311002132",
+          "MTIME": "20240419042732 20240311002132",
+          "ROAM_REFS": "https://www.orgroam.com/manual/Finding-Unlinked-References.html#Finding-Unlinked-References",
+          "ID": "441cd5d3-ab2e-4ae6-b137-706c7ab162f0",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/finding_unlinked_references_org_roam_user_manual.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Finding Unlinked References (Org-roam User Manual)",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/finding_unlinked_references_org_roam_user_manual.org",
+        "id": "441cd5d3-ab2e-4ae6-b137-706c7ab162f0"
+      },
+      {
+        "tags": [
+          "Journal",
+          "September",
+          "2020"
+        ],
+        "properties": {
+          "CATEGORY": "20200926",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042732 20240311002134",
+          "ID": "4671a233-8166-42a2-932e-3479a2f5dac4",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:September:2020:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20200926.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20200926.org",
+        "id": "4671a233-8166-42a2-932e-3479a2f5dac4"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_March",
+          "2024",
+          "March"
+        ],
+        "properties": {
+          "CATEGORY": "2024-03-25",
+          "CTIME": "20240417153447",
+          "MTIME": "20240419042732 20240417153447",
+          "ID": "4ab8adfd-bf96-422b-9baf-55d1473936d9",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_March:2024:March:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-03-25.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-03-25",
+        "file": "/home/deck/Documents/org-roam/daily/2024-03-25.org",
+        "id": "4ab8adfd-bf96-422b-9baf-55d1473936d9"
+      },
+      {
+        "tags": [
+          "LED",
+          "video",
+          "playback"
+        ],
+        "properties": {
+          "CATEGORY": "20240618165509-led_display",
+          "ID": "4d9f5527-4af9-489a-ad9a-559f6e70ab49",
+          "BLOCKED": "",
+          "ALLTAGS": ":LED:video:playback:",
+          "FILE": "/home/deck/Documents/org-roam/20240618165509-led_display.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "LED display",
+        "file": "/home/deck/Documents/org-roam/20240618165509-led_display.org",
+        "id": "4d9f5527-4af9-489a-ad9a-559f6e70ab49"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "mozilla_reaction_to_u_s_v_google_the_mozilla_blog",
+          "CTIME": "20240311002132",
+          "MTIME": "20240419042732 20240311002132",
+          "ROAM_REFS": "https://blog.mozilla.org/blog/2020/10/20/mozilla-reaction-to-u-s-v-google/",
+          "ID": "5111956b-6c17-4f15-a49f-61dc7e76cf64",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/mozilla_reaction_to_u_s_v_google_the_mozilla_blog.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Mozilla Reaction to U.S. v. Google - The Mozilla Blog",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/mozilla_reaction_to_u_s_v_google_the_mozilla_blog.org",
+        "id": "5111956b-6c17-4f15-a49f-61dc7e76cf64"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-05",
+          "CTIME": "20240405001425",
+          "MTIME": "20240419042733 20240405001425",
+          "ID": "544adf11-cff6-4db9-9cbc-b1a45b65211f",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-05.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-05",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-05.org",
+        "id": "544adf11-cff6-4db9-9cbc-b1a45b65211f"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_March",
+          "2024",
+          "March"
+        ],
+        "properties": {
+          "CATEGORY": "2024-03-31",
+          "CTIME": "20240417164107",
+          "MTIME": "20240419042733 20240417164107",
+          "ID": "5791dcef-add4-4eaa-abe1-b48052170ca5",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_March:2024:March:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-03-31.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-03-31",
+        "file": "/home/deck/Documents/org-roam/daily/2024-03-31.org",
+        "id": "5791dcef-add4-4eaa-abe1-b48052170ca5"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_11",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201011",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042733 20240311002134",
+          "ROAM_ALIASES": "10/11/2020 20201011 \"October 11, 2020\"",
+          "ID": "58c143ad-cb5d-424e-a181-d296e1c5a340",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_11:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201011.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 11",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201011.org",
+        "id": "58c143ad-cb5d-424e-a181-d296e1c5a340"
+      },
+      {
+        "tags": [
+          "loudspeaker",
+          "speaker",
+          "audio",
+          "pa_system",
+          "public_address",
+          "sound_reinforcement"
+        ],
+        "properties": {
+          "CATEGORY": "20240327200313-loudspeaker",
+          "CTIME": "20240327200313",
+          "MTIME": "20240419042733 20240327200630",
+          "ROAM_ALIASES": "loudspeaker",
+          "ID": "58d3a07b-4925-4ba2-8902-fa6a148d0d16",
+          "BLOCKED": "",
+          "ALLTAGS": ":loudspeaker:speaker:audio:pa_system:public_address:sound_reinforcement:",
+          "FILE": "/home/deck/Documents/org-roam/20240327200313-loudspeaker.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Loudspeaker",
+        "file": "/home/deck/Documents/org-roam/20240327200313-loudspeaker.org",
+        "id": "58d3a07b-4925-4ba2-8902-fa6a148d0d16"
+      },
+      {
+        "tags": [
+          "2020",
+          "October",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "2020_October",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042734 20240311002134",
+          "ROAM_ALIASES": "\"October 2020\"",
+          "ID": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+          "BLOCKED": "",
+          "ALLTAGS": ":2020:October:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/2020_October.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October",
+        "file": "/home/deck/Documents/org-roam/daily/journal/2020_October.org",
+        "id": "5b80c833-cf9e-417b-ac13-93abb21bf749"
+      },
+      {
+        "tags": [
+          "2024",
+          "March",
+          "2024_March"
+        ],
+        "properties": {
+          "CATEGORY": "2024_March",
+          "CTIME": "20240417153457",
+          "MTIME": "20240419042734 20240417153457",
+          "ROAM_ALIASES": "\"2024 March\"",
+          "ID": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b",
+          "BLOCKED": "",
+          "ALLTAGS": ":2024:March:2024_March:",
+          "FILE": "/home/deck/Documents/org-roam/daily/yearly/2024/2024_March.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024_March",
+        "file": "/home/deck/Documents/org-roam/daily/yearly/2024/2024_March.org",
+        "id": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b"
+      },
+      {
+        "tags": [
+          "computer",
+          "artificial_intelligence",
+          "cognitive_science",
+          "philosophy_of_mind",
+          "mind"
+        ],
+        "properties": {
+          "CATEGORY": "frankishCambridgeHandbookCognitive2012",
+          "CTIME": "20240331185412",
+          "MTIME": "20240419042734 20240331185412",
+          "ROAM_REFS": "@frankishCambridgeHandbookCognitive2012",
+          "ID": "5e723cbb-2154-47e3-bea6-255b45385dc3",
+          "BLOCKED": "",
+          "ALLTAGS": ":computer:artificial_intelligence:cognitive_science:philosophy_of_mind:mind:",
+          "FILE": "/home/deck/Documents/org-roam/references/frankishCambridgeHandbookCognitive2012.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Frankish, Keith and Ramsey, William M. - The Cambridge Handbook of Cognitive Science",
+        "file": "/home/deck/Documents/org-roam/references/frankishCambridgeHandbookCognitive2012.org",
+        "id": "5e723cbb-2154-47e3-bea6-255b45385dc3"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "information_theory",
+          "claude_shannon"
+        ],
+        "properties": {
+          "CATEGORY": "shannonMathematicalTheoryCommunication1998",
+          "CTIME": "20240320211608",
+          "MTIME": "20240419042734 20240320211608",
+          "ROAM_REFS": "@shannonMathematicalTheoryCommunication1998",
+          "ID": "5f6da6e5-3670-4cef-a59a-4c0aba050515",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:information_theory:claude_shannon:",
+          "FILE": "/home/deck/Documents/org-roam/references/shannonMathematicalTheoryCommunication1998.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Shannon, Weaver - The Mathematical Theory of Communication",
+        "file": "/home/deck/Documents/org-roam/references/shannonMathematicalTheoryCommunication1998.org",
+        "id": "5f6da6e5-3670-4cef-a59a-4c0aba050515"
+      },
+      {
+        "tags": [
+          "Journal",
+          "October",
+          "2020"
+        ],
+        "properties": {
+          "CATEGORY": "20201005",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042734 20240311002134",
+          "ID": "60739a26-9bc9-40a1-9621-78047f575bf7",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:October:2020:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201005.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 05",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201005.org",
+        "id": "60739a26-9bc9-40a1-9621-78047f575bf7"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-01",
+          "CTIME": "20240402211011",
+          "MTIME": "20240419042735 20240402211011",
+          "ID": "6195f09f-6521-4720-9cbc-c3fd7554350a",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-01.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-01",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-01.org",
+        "id": "6195f09f-6521-4720-9cbc-c3fd7554350a"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "bennettBriefHistoryIntelligence2023",
+          "CTIME": "20240417182817",
+          "MTIME": "20240419042735 20240417182817",
+          "ROAM_REFS": "@bennettBriefHistoryIntelligence2023",
+          "ID": "62d3ad0b-a182-4073-ab34-1c59d4c051ec",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/references/bennettBriefHistoryIntelligence2023.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Bennett, Max S. - A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains",
+        "file": "/home/deck/Documents/org-roam/references/bennettBriefHistoryIntelligence2023.org",
+        "id": "62d3ad0b-a182-4073-ab34-1c59d4c051ec"
+      },
+      {
+        "tags": [
+          "film_making",
+          "video_editing",
+          "video_production",
+          "video",
+          "special_effects",
+          "sfx"
+        ],
+        "properties": {
+          "CATEGORY": "20240326201643-post_production",
+          "CTIME": "20240326201643",
+          "MTIME": "20240419042735 20240326202215",
+          "ID": "63e7c813-e9e0-4639-9934-90461797b64e",
+          "BLOCKED": "",
+          "ALLTAGS": ":film_making:video_editing:video_production:video:special_effects:sfx:",
+          "FILE": "/home/deck/Documents/org-roam/20240326201643-post_production.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Post Production",
+        "file": "/home/deck/Documents/org-roam/20240326201643-post_production.org",
+        "id": "63e7c813-e9e0-4639-9934-90461797b64e"
+      },
+      {
+        "tags": [
+          "suffering",
+          "compassion",
+          "generalized_compassion",
+          "against_empathy"
+        ],
+        "properties": {
+          "CATEGORY": "20201011213758-secular_buddhism",
+          "CTIME": "20201011213758",
+          "MTIME": "20240419042735 20240401092635",
+          "ID": "652a67b2-9f94-4327-845e-9e33918c11f1",
+          "BLOCKED": "",
+          "ALLTAGS": ":suffering:compassion:generalized_compassion:against_empathy:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201011213758-secular_buddhism.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Secular Buddhism",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201011213758-secular_buddhism.org",
+        "id": "652a67b2-9f94-4327-845e-9e33918c11f1"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_10",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201010",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042735 20240311002134",
+          "ROAM_ALIASES": "10/10/2020 20201010 \"October 10, 2020\"",
+          "ID": "6900f44c-bfbe-44e8-ac98-f38079e388f8",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_10:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201010.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 10",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201010.org",
+        "id": "6900f44c-bfbe-44e8-ac98-f38079e388f8"
+      },
+      {
+        "tags": [
+          "behaviorism",
+          "psychology",
+          "bf_skinner",
+          "radical_behaviorism"
+        ],
+        "properties": {
+          "CATEGORY": "20240430103830-radical_behaviorism",
+          "ID": "6933d2ab-22fb-4c01-ab81-57f7802729e2",
+          "BLOCKED": "",
+          "ALLTAGS": ":behaviorism:psychology:bf_skinner:radical_behaviorism:",
+          "FILE": "/home/deck/Documents/org-roam/20240430103830-radical_behaviorism.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "radical behaviorism",
+        "file": "/home/deck/Documents/org-roam/20240430103830-radical_behaviorism.org",
+        "id": "6933d2ab-22fb-4c01-ab81-57f7802729e2"
+      },
+      {
+        "tags": [
+          "Project"
+        ],
+        "properties": {
+          "CATEGORY": "20240329191937-ct_el_package_test",
+          "CTIME": "20240329191937",
+          "MTIME": "20240419042736 20240330164754",
+          "ID": "69bf54e3-4a4f-4aa6-b799-6e51792fe99e",
+          "BLOCKED": "",
+          "ALLTAGS": ":Project:",
+          "FILE": "/home/deck/Documents/org-roam/20240329191937-ct_el_package_test.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "ct.el package test",
+        "file": "/home/deck/Documents/org-roam/20240329191937-ct_el_package_test.org",
+        "id": "69bf54e3-4a4f-4aa6-b799-6e51792fe99e"
+      },
+      {
+        "tags": [
+          "iec",
+          "power_connectors",
+          "appliances",
+          "stagehand",
+          "stagecraft"
+        ],
+        "properties": {
+          "CATEGORY": "20240321072248-iec_60320_main_page",
+          "CTIME": "20240321072248",
+          "MTIME": "20240429151333 20240419042736 20240322011036",
+          "DATA_TYPE": "NA",
+          "DATA_TRANSFER": "NO",
+          "VOLTAGE": "",
+          "AMPERAGE": "",
+          "POWER_TRANSFER": "YES",
+          "ID": "69d1972a-e34e-4508-822a-350505d17b33",
+          "BLOCKED": "",
+          "ALLTAGS": ":iec:power_connectors:appliances:stagehand:stagecraft:",
+          "FILE": "/home/deck/Documents/org-roam/20240321072248-iec_60320_main_page.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "IEC 60320 Main Page",
+        "file": "/home/deck/Documents/org-roam/20240321072248-iec_60320_main_page.org",
+        "id": "69d1972a-e34e-4508-822a-350505d17b33"
+      },
+      {
+        "tags": [
+          "camera",
+          "screen_recorder",
+          "video"
+        ],
+        "properties": {
+          "CATEGORY": "20240618153504-video_capture",
+          "ID": "6cabbe77-ffae-4dc0-aef6-c1d5d486157b",
+          "BLOCKED": "",
+          "ALLTAGS": ":camera:screen_recorder:video:",
+          "FILE": "/home/deck/Documents/org-roam/20240618153504-video_capture.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Video capture",
+        "file": "/home/deck/Documents/org-roam/20240618153504-video_capture.org",
+        "id": "6cabbe77-ffae-4dc0-aef6-c1d5d486157b"
+      },
+      {
+        "tags": [
+          "Project",
+          "README"
+        ],
+        "properties": {
+          "CATEGORY": "README",
+          "CTIME": "20240430113815",
+          "MTIME": "20240430154022 20240430122216",
+          "ID": "6e922ae1-6967-4ba7-b96b-972e006bab3b",
+          "BLOCKED": "",
+          "ALLTAGS": ":Project:README:",
+          "FILE": "/home/deck/Documents/org-roam/README.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "README",
+        "file": "/home/deck/Documents/org-roam/README.org",
+        "id": "6e922ae1-6967-4ba7-b96b-972e006bab3b"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-17",
+          "CTIME": "20240417151054",
+          "MTIME": "20240419042736 20240417151054",
+          "ID": "6f992f49-73e5-49df-a61a-95d3edd404cf",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-17.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-17",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-17.org",
+        "id": "6f992f49-73e5-49df-a61a-95d3edd404cf"
+      },
+      {
+        "tags": [
+          "cognitive_science",
+          "artificial_intelligence"
+        ],
+        "properties": {
+          "CATEGORY": "frankishCambridgeHandbookArtificial2014",
+          "CTIME": "20240331185554",
+          "MTIME": "20240419042736 20240331185554",
+          "ROAM_REFS": "@frankishCambridgeHandbookArtificial2014",
+          "ID": "70a6e20d-bb58-49b9-b869-ffb7113baef6",
+          "BLOCKED": "",
+          "ALLTAGS": ":cognitive_science:artificial_intelligence:",
+          "FILE": "/home/deck/Documents/org-roam/references/frankishCambridgeHandbookArtificial2014.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "- The Cambridge Handbook of Artificial Intelligence",
+        "file": "/home/deck/Documents/org-roam/references/frankishCambridgeHandbookArtificial2014.org",
+        "id": "70a6e20d-bb58-49b9-b869-ffb7113baef6"
+      },
+      {
+        "tags": [
+          "personhood",
+          "personal_identity"
+        ],
+        "properties": {
+          "CATEGORY": "olsonPersonalIdentity2023",
+          "CTIME": "20240323195600",
+          "MTIME": "20240419042736 20240323195600",
+          "ROAM_REFS": "@olsonPersonalIdentity2023",
+          "ID": "71819bef-7529-4ad3-a95b-d6723f581d77",
+          "BLOCKED": "",
+          "ALLTAGS": ":personhood:personal_identity:",
+          "FILE": "/home/deck/Documents/org-roam/references/olsonPersonalIdentity2023.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Olson, Eric T. - Personal Identity",
+        "file": "/home/deck/Documents/org-roam/references/olsonPersonalIdentity2023.org",
+        "id": "71819bef-7529-4ad3-a95b-d6723f581d77"
+      },
+      {
+        "tags": [
+          "lighting",
+          "optics",
+          "color",
+          "visuals"
+        ],
+        "properties": {
+          "CATEGORY": "20240322204847-lighting",
+          "CTIME": "20240322204847",
+          "MTIME": "20240419042737 20240401074359",
+          "ID": "71f58f7a-aa92-4ee7-a23f-c69930f88f11",
+          "BLOCKED": "",
+          "ALLTAGS": ":lighting:optics:color:visuals:",
+          "FILE": "/home/deck/Documents/org-roam/20240322204847-lighting.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Lighting",
+        "file": "/home/deck/Documents/org-roam/20240322204847-lighting.org",
+        "id": "71f58f7a-aa92-4ee7-a23f-c69930f88f11"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_15",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201015",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042737 20240311002134",
+          "ROAM_ALIASES": "10/15/2020 20201015 \"October 15, 2020\"",
+          "ID": "74d41ee8-0ab4-4a7a-9fac-52d982949a50",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_15:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201015.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 15",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201015.org",
+        "id": "74d41ee8-0ab4-4a7a-9fac-52d982949a50"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "operation",
+          "derivative",
+          "calculus",
+          "function"
+        ],
+        "properties": {
+          "CATEGORY": "20240624173028-derivative",
+          "ID": "788c42ea-26a6-4328-85ff-00b6840165d5",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:operation:derivative:calculus:function:",
+          "FILE": "/home/deck/Documents/org-roam/20240624173028-derivative.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "differentiation",
+        "file": "/home/deck/Documents/org-roam/20240624173028-derivative.org",
+        "id": "788c42ea-26a6-4328-85ff-00b6840165d5"
+      },
+      {
+        "tags": [
+          "stagecraft",
+          "stagehand",
+          "electrical_power",
+          "three_phase"
+        ],
+        "properties": {
+          "CATEGORY": "socapex_wikipedia",
+          "CTIME": "20240322052754",
+          "MTIME": "20240429120309 20240419042737 20240322052754",
+          "DATA_TYPE": "NA",
+          "DATA_TRANSFER": "NO",
+          "VOLTAGE": "",
+          "AMPERAGFE": "",
+          "POWER_TRANSFER": "YES",
+          "ROAM_ALIASES": "Socapex",
+          "ID": "7b0de39e-0dc0-405b-8587-31064d8f4ab3",
+          "BLOCKED": "",
+          "ALLTAGS": ":stagecraft:stagehand:electrical_power:three_phase:",
+          "FILE": "/home/deck/Documents/org-roam/socapex_wikipedia.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Socapex",
+        "file": "/home/deck/Documents/org-roam/socapex_wikipedia.org",
+        "id": "7b0de39e-0dc0-405b-8587-31064d8f4ab3"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_08",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201008",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042737 20240311002134",
+          "ROAM_ALIASES": "10/08/2020 20201008 \"October 08, 2020\"",
+          "ID": "7b2bc690-d5db-44f0-a38b-8f4be6e7712f",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_08:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201008.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 08",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201008.org",
+        "id": "7b2bc690-d5db-44f0-a38b-8f4be6e7712f"
+      },
+      {
+        "tags": [
+          "pc",
+          "computers",
+          "power_supply",
+          "electrical_power"
+        ],
+        "properties": {
+          "CATEGORY": "20240322044343-pc_power_supply",
+          "CTIME": "20240322044343",
+          "MTIME": "20240419042737 20240323081722",
+          "ROAM_ALIASES": "\"Power Supply Unit\"",
+          "ID": "7e29602a-e2b1-4573-9695-53361020685e",
+          "BLOCKED": "",
+          "ALLTAGS": ":pc:computers:power_supply:electrical_power:",
+          "FILE": "/home/deck/Documents/org-roam/20240322044343-pc_power_supply.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "PC Power Supply",
+        "file": "/home/deck/Documents/org-roam/20240322044343-pc_power_supply.org",
+        "id": "7e29602a-e2b1-4573-9695-53361020685e"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_09",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201009",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042737 20240311002134",
+          "ROAM_ALIASES": "10/09/2020 20201009 \"October 09, 2020\"",
+          "ID": "7ea0949d-63b1-43b5-a9db-feca6bc9bd02",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_09:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201009.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 09",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201009.org",
+        "id": "7ea0949d-63b1-43b5-a9db-feca6bc9bd02"
+      },
+      {
+        "tags": [
+          "git",
+          "version_control",
+          "graph_theory"
+        ],
+        "properties": {
+          "CATEGORY": "git",
+          "CTIME": "20240311002132",
+          "MTIME": "20240430162228 20240419042738 20240311002132",
+          "ID": "7eec0c51-61c8-42c9-9101-b113b1ad3510",
+          "BLOCKED": "",
+          "ALLTAGS": ":git:version_control:graph_theory:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/git.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Git",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/git.org",
+        "id": "7eec0c51-61c8-42c9-9101-b113b1ad3510"
+      },
+      {
+        "tags": [
+          "electrical_power",
+          "dc_current",
+          "electricity",
+          "edison"
+        ],
+        "properties": {
+          "CATEGORY": "20240429105041-direct_current",
+          "CTIME": "20240429105041",
+          "MTIME": "20240429105142",
+          "ID": "83d79a7a-a279-40b7-bc16-48a0320248f3",
+          "BLOCKED": "",
+          "ALLTAGS": ":electrical_power:dc_current:electricity:edison:",
+          "FILE": "/home/deck/Documents/org-roam/20240429105041-direct_current.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "direct current",
+        "file": "/home/deck/Documents/org-roam/20240429105041-direct_current.org",
+        "id": "83d79a7a-a279-40b7-bc16-48a0320248f3"
+      },
+      {
+        "tags": [
+          "talking_heads",
+          "once_in_a_lifetime_talking_heads",
+          "bewilderment",
+          "confusion",
+          "nostalgia"
+        ],
+        "properties": {
+          "CATEGORY": "20240328144615-once_in_a_lifetime_talking_heads",
+          "CTIME": "20240328144615",
+          "MTIME": "20240419042738 20240329223012",
+          "ALBUM_TYPE": "single",
+          "ARTIST": "Talking Heads",
+          "SONG_TITLE": "Once in a Lifetime",
+          "ID": "845ba2f2-a5b9-4fce-8e8d-842cad9b02e5",
+          "BLOCKED": "",
+          "ALLTAGS": ":talking_heads:once_in_a_lifetime_talking_heads:bewilderment:confusion:nostalgia:",
+          "FILE": "/home/deck/Documents/org-roam/music/20240328144615-once_in_a_lifetime_talking_heads.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Once In a Lifetime - Talking Heads - Remain in Light (1980)",
+        "file": "/home/deck/Documents/org-roam/music/20240328144615-once_in_a_lifetime_talking_heads.org",
+        "id": "845ba2f2-a5b9-4fce-8e8d-842cad9b02e5"
+      },
+      {
+        "tags": [
+          "speakON",
+          "STUB"
+        ],
+        "properties": {
+          "CATEGORY": "20240327200020-neutrik_speakon",
+          "CTIME": "20240327200020",
+          "MTIME": "20240419042738 20240331185715",
+          "ID": "85611eff-4d7c-4e5c-8169-dfc70383df0c",
+          "BLOCKED": "",
+          "ALLTAGS": ":speakON:STUB:",
+          "FILE": "/home/deck/Documents/org-roam/20240327200020-neutrik_speakon.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Neutrik speakON",
+        "file": "/home/deck/Documents/org-roam/20240327200020-neutrik_speakon.org",
+        "id": "85611eff-4d7c-4e5c-8169-dfc70383df0c"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "raritanThreePhasePowerExplained2018",
+          "ROAM_REFS": "@raritanThreePhasePowerExplained2018",
+          "CTIME": "20240429120110",
+          "MTIME": "20240429120110",
+          "ID": "873b545f-b959-4299-b44a-fbc13c29a8bf",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/references/raritanThreePhasePowerExplained2018.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Raritan - Three-Phase Power Explained",
+        "file": "/home/deck/Documents/org-roam/references/raritanThreePhasePowerExplained2018.org",
+        "id": "873b545f-b959-4299-b44a-fbc13c29a8bf"
+      },
+      {
+        "tags": [
+          "STUB",
+          "television",
+          "display",
+          "video",
+          "audio",
+          "monitor",
+          "downstage_monitor"
+        ],
+        "properties": {
+          "CATEGORY": "20240327222533-tv",
+          "ROAM_ALIASES": "TV",
+          "CTIME": "20240327222533",
+          "MTIME": "20240429151025 20240419042738 20240330150854",
+          "ID": "8ab6b612-c794-4ab8-89d2-1a0613c324e8",
+          "BLOCKED": "",
+          "ALLTAGS": ":STUB:television:display:video:audio:monitor:downstage_monitor:",
+          "FILE": "/home/deck/Documents/org-roam/20240327222533-tv.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "television",
+        "file": "/home/deck/Documents/org-roam/20240327222533-tv.org",
+        "id": "8ab6b612-c794-4ab8-89d2-1a0613c324e8"
+      },
+      {
+        "tags": [
+          "STUB",
+          "psychology",
+          "ethology",
+          "linguistics",
+          "anthropology",
+          "cognition",
+          "computation",
+          "perception"
+        ],
+        "properties": {
+          "CATEGORY": "20240417163303-cognition",
+          "CTIME": "20240417163303",
+          "MTIME": "20240419042738 20240417163918",
+          "ID": "8b4f316f-20fa-4625-a742-2770dac0011b",
+          "BLOCKED": "",
+          "ALLTAGS": ":STUB:psychology:ethology:linguistics:anthropology:cognition:computation:perception:",
+          "FILE": "/home/deck/Documents/org-roam/20240417163303-cognition.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Cognition",
+        "file": "/home/deck/Documents/org-roam/20240417163303-cognition.org",
+        "id": "8b4f316f-20fa-4625-a742-2770dac0011b"
+      },
+      {
+        "tags": [
+          "STUB",
+          "connectionism",
+          "computation",
+          "cognition",
+          "perceptron",
+          "node",
+          "weight_coefficient"
+        ],
+        "properties": {
+          "CATEGORY": "20240501144645-connectionism",
+          "ID": "8c1f6c70-c956-443a-8ab4-18d97471765f",
+          "BLOCKED": "",
+          "ALLTAGS": ":STUB:connectionism:computation:cognition:perceptron:node:weight_coefficient:",
+          "FILE": "/home/deck/Documents/org-roam/20240501144645-connectionism.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Connectionism",
+        "file": "/home/deck/Documents/org-roam/20240501144645-connectionism.org",
+        "id": "8c1f6c70-c956-443a-8ab4-18d97471765f"
+      },
+      {
+        "tags": [
+          "Journal",
+          "September",
+          "2020"
+        ],
+        "properties": {
+          "CATEGORY": "20200923",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042738 20240311002134",
+          "ID": "8ce67e8c-a10a-45ea-a597-7a65050f8989",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:September:2020:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20200923.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 September 23",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20200923.org",
+        "id": "8ce67e8c-a10a-45ea-a597-7a65050f8989"
+      },
+      {
+        "tags": [
+          "videos",
+          "mathematics",
+          "computer_science",
+          "graph_theory",
+          "reducible_youtube"
+        ],
+        "properties": {
+          "CATEGORY": "reducibleIntroductionGraphTheory2020",
+          "CTIME": "20240321060614",
+          "MTIME": "20240419042739 20240321060614",
+          "ROAM_REFS": "@reducibleIntroductionGraphTheory2020",
+          "ID": "8e0a3060-cd4d-41eb-a029-6e3389cd6b03",
+          "BLOCKED": "",
+          "ALLTAGS": ":videos:mathematics:computer_science:graph_theory:reducible_youtube:",
+          "FILE": "/home/deck/Documents/org-roam/references/reducibleIntroductionGraphTheory2020.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Reducible - Introduction to Graph Theory: A Computer Science Perspective",
+        "file": "/home/deck/Documents/org-roam/references/reducibleIntroductionGraphTheory2020.org",
+        "id": "8e0a3060-cd4d-41eb-a029-6e3389cd6b03"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "deutschPsychologyMusic2013",
+          "CTIME": "20240418204258",
+          "MTIME": "20240421221605 20240419042739 20240418204258",
+          "ROAM_REFS": "@deutschPsychologyMusic2013",
+          "ID": "8ecdbfe3-91ba-4196-a539-2db4813be46e",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/references/deutschPsychologyMusic2013.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Deutsch - The Psychology Of Music",
+        "file": "/home/deck/Documents/org-roam/references/deutschPsychologyMusic2013.org",
+        "id": "8ecdbfe3-91ba-4196-a539-2db4813be46e"
+      },
+      {
+        "tags": [
+          "music",
+          "pitch",
+          "tone",
+          "timbre",
+          "sinusoid"
+        ],
+        "properties": {
+          "CATEGORY": "20240328140536-musical_pitch",
+          "CTIME": "20240328140536",
+          "MTIME": "20240422225259 20240421203946 20240421193855 20240419042626",
+          "ID": "8f6a9ea8-b658-4967-92cc-76d9c2ad83a1",
+          "BLOCKED": "",
+          "ALLTAGS": ":music:pitch:tone:timbre:sinusoid:",
+          "FILE": "/home/deck/Documents/org-roam/20240328140536-musical_pitch.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "musical pitch",
+        "file": "/home/deck/Documents/org-roam/20240328140536-musical_pitch.org",
+        "id": "8f6a9ea8-b658-4967-92cc-76d9c2ad83a1"
+      },
+      {
+        "tags": [
+          "philosophy_of_mind",
+          "buddhism",
+          "mind"
+        ],
+        "properties": {
+          "CATEGORY": "coseruMindIndianBuddhist2017",
+          "CTIME": "20240328134138",
+          "MTIME": "20240419042739 20240328134138",
+          "ROAM_REFS": "@coseruMindIndianBuddhist2017",
+          "ID": "9003695b-ef75-47a9-8377-5889dace643a",
+          "BLOCKED": "",
+          "ALLTAGS": ":philosophy_of_mind:buddhism:mind:",
+          "FILE": "/home/deck/Documents/org-roam/references/coseruMindIndianBuddhist2017.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Coseru, Christian - Mind in Indian Buddhist Philosophy",
+        "file": "/home/deck/Documents/org-roam/references/coseruMindIndianBuddhist2017.org",
+        "id": "9003695b-ef75-47a9-8377-5889dace643a"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "2024-03-11",
+          "CTIME": "20240417150310",
+          "MTIME": "20240419042739 20240417150310",
+          "ID": "9033e398-d588-4371-bcb4-ebad10c86184",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-03-11.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-03-11",
+        "file": "/home/deck/Documents/org-roam/daily/2024-03-11.org",
+        "id": "9033e398-d588-4371-bcb4-ebad10c86184"
+      },
+      {
+        "tags": [
+          "pc",
+          "computer",
+          "cpu",
+          "gpu",
+          "memory"
+        ],
+        "properties": {
+          "CATEGORY": "20240323080759-motherboard",
+          "CTIME": "20240323080759",
+          "MTIME": "20240419042740 20240323081637",
+          "ID": "92dfd3b0-91e2-4e02-b6e1-00afa0c86f6e",
+          "BLOCKED": "",
+          "ALLTAGS": ":pc:computer:cpu:gpu:memory:",
+          "FILE": "/home/deck/Documents/org-roam/20240323080759-motherboard.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Motherboard",
+        "file": "/home/deck/Documents/org-roam/20240323080759-motherboard.org",
+        "id": "92dfd3b0-91e2-4e02-b6e1-00afa0c86f6e"
+      },
+      {
+        "tags": [
+          "display",
+          "computer_monitor",
+          "locking_connector",
+          "display_port"
+        ],
+        "properties": {
+          "CATEGORY": "20240323212427-vesa_display_port",
+          "CTIME": "20240323212427",
+          "MTIME": "20240419042740 20240323222441",
+          "ID": "92e35bbc-c662-47c2-b441-fd8695fee1f6",
+          "BLOCKED": "",
+          "ALLTAGS": ":display:computer_monitor:locking_connector:display_port:",
+          "FILE": "/home/deck/Documents/org-roam/20240323212427-vesa_display_port.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "VESA Display Port",
+        "file": "/home/deck/Documents/org-roam/20240323212427-vesa_display_port.org",
+        "id": "92e35bbc-c662-47c2-b441-fd8695fee1f6"
+      },
+      {
+        "tags": [
+          "stagecraft",
+          "stagehand",
+          "electrical_power",
+          "power_cable",
+          "nema"
+        ],
+        "properties": {
+          "CATEGORY": "20240321063341-edison_cable",
+          "CTIME": "20240321063341",
+          "MTIME": "20240419042740 20240322053158",
+          "ROAM_ALIASES": "\"Edison Cable\" \"NEMA 5\"",
+          "DATA_TYPE": "NA",
+          "DATA_TRANSFER": "NO",
+          "POWER_RATING": "",
+          "POWER_TRANSFER": "YES",
+          "ID": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0",
+          "BLOCKED": "",
+          "ALLTAGS": ":stagecraft:stagehand:electrical_power:power_cable:nema:",
+          "FILE": "/home/deck/Documents/org-roam/20240321063341-edison_cable.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "NEMA 5 (Edison)",
+        "file": "/home/deck/Documents/org-roam/20240321063341-edison_cable.org",
+        "id": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0"
+      },
+      {
+        "tags": [
+          "personal_identity",
+          "psychological_fission",
+          "psychological_fusion"
+        ],
+        "properties": {
+          "CATEGORY": "parfitPersonalIdentity1971",
+          "CTIME": "20240320211606",
+          "MTIME": "20240419042740 20240320211606",
+          "ROAM_REFS": "@parfitPersonalIdentity1971",
+          "ID": "9388f82f-9fff-4a06-9f74-a1e1306f2ce9",
+          "BLOCKED": "",
+          "ALLTAGS": ":personal_identity:psychological_fission:psychological_fusion:",
+          "FILE": "/home/deck/Documents/org-roam/references/parfitPersonalIdentity1971.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Parfit - Personal Identity",
+        "file": "/home/deck/Documents/org-roam/references/parfitPersonalIdentity1971.org",
+        "id": "9388f82f-9fff-4a06-9f74-a1e1306f2ce9"
+      },
+      {
+        "tags": [
+          "color",
+          "color_space",
+          "gamut",
+          "physics",
+          "elctromagnetism",
+          "models"
+        ],
+        "properties": {
+          "CATEGORY": "20240327075039-color_spaces",
+          "CTIME": "20240327075039",
+          "MTIME": "20240429140235 20240419042741 20240327075151",
+          "ID": "93e55fc1-479b-4504-9900-c69b45683bef",
+          "BLOCKED": "",
+          "ALLTAGS": ":color:color_space:gamut:physics:elctromagnetism:models:",
+          "FILE": "/home/deck/Documents/org-roam/20240327075039-color_spaces.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Color spaces",
+        "file": "/home/deck/Documents/org-roam/20240327075039-color_spaces.org",
+        "id": "93e55fc1-479b-4504-9900-c69b45683bef"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_March",
+          "2024",
+          "March"
+        ],
+        "properties": {
+          "CATEGORY": "2024-03-27",
+          "CTIME": "20240417145926",
+          "MTIME": "20240419042741 20240417145926",
+          "ID": "941a4471-07bd-49a7-b5b1-b994669b114b",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_March:2024:March:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-03-27.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-03-27",
+        "file": "/home/deck/Documents/org-roam/daily/2024-03-27.org",
+        "id": "941a4471-07bd-49a7-b5b1-b994669b114b"
+      },
+      {
+        "tags": [
+          "keybinds",
+          "controls",
+          "keyboard_navigation",
+          "text_editing",
+          "editing",
+          "vim"
+        ],
+        "properties": {
+          "CATEGORY": "20201005042643-personal_vim_commands",
+          "CTIME": "20201005042643",
+          "MTIME": "20240419042741 20240402193423",
+          "ROAM_ALIASES": "\"Vim Commands\" \"Vim Keybinds\"",
+          "ID": "982a2b3c-e3bf-4e5c-9745-f70ae10e7f53",
+          "BLOCKED": "",
+          "ALLTAGS": ":keybinds:controls:keyboard_navigation:text_editing:editing:vim:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201005042643-personal_vim_commands.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Personal Vim Commands",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201005042643-personal_vim_commands.org",
+        "id": "982a2b3c-e3bf-4e5c-9745-f70ae10e7f53"
+      },
+      {
+        "tags": [
+          "visual_art",
+          "composition",
+          "ratios",
+          "frames",
+          "painting",
+          "photography",
+          "advertisement",
+          "graphic_design"
+        ],
+        "properties": {
+          "CATEGORY": "20240321200720-composition",
+          "CTIME": "20240321200720",
+          "MTIME": "20240419042741 20240326203617",
+          "ID": "988a1f70-6272-4cbf-ad42-6ab03f787e18",
+          "BLOCKED": "",
+          "ALLTAGS": ":visual_art:composition:ratios:frames:painting:photography:advertisement:graphic_design:",
+          "FILE": "/home/deck/Documents/org-roam/20240321200720-composition.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Composition (visual)",
+        "file": "/home/deck/Documents/org-roam/20240321200720-composition.org",
+        "id": "988a1f70-6272-4cbf-ad42-6ab03f787e18"
+      },
+      {
+        "tags": [
+          "computation",
+          "processor"
+        ],
+        "properties": {
+          "CATEGORY": "20240617152456-processor",
+          "ID": "9b0b72e9-2759-4a0c-9870-a9ee74c0bbeb",
+          "BLOCKED": "",
+          "ALLTAGS": ":computation:processor:",
+          "FILE": "/home/deck/Documents/org-roam/20240617152456-processor.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Processor",
+        "file": "/home/deck/Documents/org-roam/20240617152456-processor.org",
+        "id": "9b0b72e9-2759-4a0c-9870-a9ee74c0bbeb"
+      },
+      {
+        "tags": [
+          "bias",
+          "expertise",
+          "media",
+          "gell-mann_amnesia_effect"
+        ],
+        "properties": {
+          "CATEGORY": "20240326210958-gell_mann_amnesia_effect",
+          "CTIME": "20240326210958",
+          "MTIME": "20240419042742 20240326211112",
+          "ID": "9b474203-4de7-4306-86ed-a9331ede0a9c",
+          "BLOCKED": "",
+          "ALLTAGS": ":bias:expertise:media:gell-mann_amnesia_effect:",
+          "FILE": "/home/deck/Documents/org-roam/20240326210958-gell_mann_amnesia_effect.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Gell-Mann Amnesia Effect",
+        "file": "/home/deck/Documents/org-roam/20240326210958-gell_mann_amnesia_effect.org",
+        "id": "9b474203-4de7-4306-86ed-a9331ede0a9c"
+      },
+      {
+        "tags": [
+          "Project",
+          "home",
+          "cleaning"
+        ],
+        "properties": {
+          "CATEGORY": "20240322202110-home_cleaning",
+          "CTIME": "20240322202110",
+          "MTIME": "20240419042742 20240323082345",
+          "ROAM_ALIASES": "\"House Cleaning\"",
+          "ID": "9c48a09d-536a-44ed-a187-bf97e8309d37",
+          "BLOCKED": "",
+          "ALLTAGS": ":Project:home:cleaning:",
+          "FILE": "/home/deck/Documents/org-roam/20240322202110-home_cleaning.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Home Cleaning",
+        "file": "/home/deck/Documents/org-roam/20240322202110-home_cleaning.org",
+        "id": "9c48a09d-536a-44ed-a187-bf97e8309d37"
+      },
+      {
+        "tags": [
+          "psychology",
+          "behaviorism",
+          "bf_skinner",
+          "john_watson"
+        ],
+        "properties": {
+          "CATEGORY": "20240331183209-behaviorism",
+          "CTIME": "20240331183209",
+          "MTIME": "20240419042743 20240331184815",
+          "ID": "9ff3fce5-1180-4014-b502-d9107b2cef10",
+          "BLOCKED": "",
+          "ALLTAGS": ":psychology:behaviorism:bf_skinner:john_watson:",
+          "FILE": "/home/deck/Documents/org-roam/20240331183209-behaviorism.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Behaviorism",
+        "file": "/home/deck/Documents/org-roam/20240331183209-behaviorism.org",
+        "id": "9ff3fce5-1180-4014-b502-d9107b2cef10"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "SteamLibrary",
+          "CTIME": "20240401092333",
+          "MTIME": "20240419042743 20240401092333",
+          "ID": "a1976613-8b91-47ef-82aa-7394f90d6358",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/SteamLibrary.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Steam Library",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/SteamLibrary.org",
+        "id": "a1976613-8b91-47ef-82aa-7394f90d6358"
+      },
+      {
+        "tags": [
+          "freedom",
+          "meanings"
+        ],
+        "properties": {
+          "CATEGORY": "20201021171728-freedom",
+          "CTIME": "20201021171728",
+          "MTIME": "20240419042743 20240320203016",
+          "ID": "a25d859d-99c1-4694-866d-0b7b20ed0d97",
+          "BLOCKED": "",
+          "ALLTAGS": ":freedom:meanings:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201021171728-freedom.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Freedom",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201021171728-freedom.org",
+        "id": "a25d859d-99c1-4694-866d-0b7b20ed0d97"
+      },
+      {
+        "tags": [
+          "cognition",
+          "computation",
+          "psychology",
+          "linguistics",
+          "philosophy",
+          "history_of_science"
+        ],
+        "properties": {
+          "CATEGORY": "20240331173657-cognitive_revolution",
+          "ROAM_ALIASES": "\"cognitive revolution\"",
+          "CTIME": "20240331173657",
+          "MTIME": "20240419042744 20240417165009",
+          "ID": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267",
+          "BLOCKED": "",
+          "ALLTAGS": ":cognition:computation:psychology:linguistics:philosophy:history_of_science:",
+          "FILE": "/home/deck/Documents/org-roam/20240331173657-cognitive_revolution.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Cognitive Revolution",
+        "file": "/home/deck/Documents/org-roam/20240331173657-cognitive_revolution.org",
+        "id": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267"
+      },
+      {
+        "tags": [
+          "arthropod",
+          "intelligence",
+          "insect"
+        ],
+        "properties": {
+          "CATEGORY": "nosowitzAskedLeadingEntomologists0400",
+          "ROAM_REFS": "@nosowitzAskedLeadingEntomologists0400",
+          "ID": "a2b9b98b-907f-48a7-ac83-f39dae4bc06f",
+          "BLOCKED": "",
+          "ALLTAGS": ":arthropod:intelligence:insect:",
+          "FILE": "/home/deck/Documents/org-roam/references/nosowitzAskedLeadingEntomologists0400.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Nosowitz, Dan - I Asked Leading Entomologists: ’What’s The Smartest Bug In The World?’",
+        "file": "/home/deck/Documents/org-roam/references/nosowitzAskedLeadingEntomologists0400.org",
+        "id": "a2b9b98b-907f-48a7-ac83-f39dae4bc06f"
+      },
+      {
+        "tags": [
+          "algorithm",
+          "gradient_descent",
+          "evolution",
+          "ai",
+          "artificial_intelligence",
+          "gradient",
+          "calculus",
+          "optimization",
+          "derivative"
+        ],
+        "properties": {
+          "CATEGORY": "20240413231511-gradient_descent",
+          "CTIME": "20240413231511",
+          "MTIME": "20240419042744 20240417163047",
+          "ID": "a2c8c554-858d-46bc-8e0e-0bbbd1b9e58f",
+          "BLOCKED": "",
+          "ALLTAGS": ":algorithm:gradient_descent:evolution:ai:artificial_intelligence:gradient:calculus:optimization:derivative:",
+          "FILE": "/home/deck/Documents/org-roam/20240413231511-gradient_descent.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Gradient descent",
+        "file": "/home/deck/Documents/org-roam/20240413231511-gradient_descent.org",
+        "id": "a2c8c554-858d-46bc-8e0e-0bbbd1b9e58f"
+      },
+      {
+        "tags": [
+          "audio",
+          "electrical_power",
+          "stagehand",
+          "stagecraft",
+          "power_distribution"
+        ],
+        "properties": {
+          "CATEGORY": "20240322045508-power_distribution_unit",
+          "ROAM_ALIASES": "\"power distro\"",
+          "CTIME": "20240322045508",
+          "MTIME": "20240429122816 20240419042745 20240322054217",
+          "ID": "a4653e16-456a-4127-85f5-8c5d536bea16",
+          "BLOCKED": "",
+          "ALLTAGS": ":audio:electrical_power:stagehand:stagecraft:power_distribution:",
+          "FILE": "/home/deck/Documents/org-roam/20240322045508-power_distribution_unit.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Power Distribution Unit",
+        "file": "/home/deck/Documents/org-roam/20240322045508-power_distribution_unit.org",
+        "id": "a4653e16-456a-4127-85f5-8c5d536bea16"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "Index",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042745 20240311002134",
+          "ID": "a49c137b-757f-4ff9-b10a-ce95c4ec097b",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/Index.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Index",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/Index.org",
+        "id": "a49c137b-757f-4ff9-b10a-ce95c4ec097b"
+      },
+      {
+        "tags": [
+          "lighting",
+          "light",
+          "glass",
+          "optics"
+        ],
+        "properties": {
+          "CATEGORY": "20240619104941-lens",
+          "ID": "a6160b49-6d42-4207-8359-59bb800ae798",
+          "BLOCKED": "",
+          "ALLTAGS": ":lighting:light:glass:optics:",
+          "FILE": "/home/deck/Documents/org-roam/20240619104941-lens.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "lens",
+        "file": "/home/deck/Documents/org-roam/20240619104941-lens.org",
+        "id": "a6160b49-6d42-4207-8359-59bb800ae798"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "operation",
+          "multiplication",
+          "arithmetic"
+        ],
+        "properties": {
+          "CATEGORY": "20240501135543-multiplication",
+          "ID": "a6dc2318-8b5c-44d9-b1b0-ea25a0645c49",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:operation:multiplication:arithmetic:",
+          "FILE": "/home/deck/Documents/org-roam/20240501135543-multiplication.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "multiplication",
+        "file": "/home/deck/Documents/org-roam/20240501135543-multiplication.org",
+        "id": "a6dc2318-8b5c-44d9-b1b0-ea25a0645c49"
+      },
+      {
+        "tags": [
+          "creep_radiohead",
+          "creep_pablo_honey",
+          "radiohead_creep",
+          "chromatic_mediant",
+          "mode_mixture",
+          "chord_loop",
+          "minor_iv",
+          "anxiety",
+          "love",
+          "self-doubt"
+        ],
+        "properties": {
+          "CATEGORY": "20240405223952-creep_radio_head_pablo_honey_1992",
+          "CTIME": "20240405223952",
+          "MTIME": "20240429145919 20240419042745 20240405224458",
+          "ID": "a7e9684c-b1a2-47b5-bb9f-5234877b13bd",
+          "BLOCKED": "",
+          "ALLTAGS": ":creep_radiohead:creep_pablo_honey:radiohead_creep:chromatic_mediant:mode_mixture:chord_loop:minor_iv:anxiety:love:self-doubt:",
+          "FILE": "/home/deck/Documents/org-roam/music/20240405223952-creep_radio_head_pablo_honey_1992.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Creep - Radio Head - Pablo Honey (1992)",
+        "file": "/home/deck/Documents/org-roam/music/20240405223952-creep_radio_head_pablo_honey_1992.org",
+        "id": "a7e9684c-b1a2-47b5-bb9f-5234877b13bd"
+      },
+      {
+        "tags": [
+          "September",
+          "2020",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "2020_September",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042746 20240311002134",
+          "ROAM_ALIASES": "\"September 2020\"",
+          "ID": "a924a433-5181-4a95-abdf-fa2d56848a54",
+          "BLOCKED": "",
+          "ALLTAGS": ":September:2020:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/2020_September.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 September",
+        "file": "/home/deck/Documents/org-roam/daily/journal/2020_September.org",
+        "id": "a924a433-5181-4a95-abdf-fa2d56848a54"
+      },
+      {
+        "tags": [
+          "Project",
+          "April",
+          "2024",
+          "April_2024"
+        ],
+        "properties": {
+          "CATEGORY": "2024_April",
+          "CTIME": "20240417154229",
+          "MTIME": "20240429124121 20240419042746 20240417154229",
+          "ID": "ac6856d4-1d5c-4bed-9401-701921e860bc",
+          "BLOCKED": "",
+          "ALLTAGS": ":Project:April:2024:April_2024:",
+          "FILE": "/home/deck/Documents/org-roam/daily/yearly/2024/2024_April.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024 April",
+        "file": "/home/deck/Documents/org-roam/daily/yearly/2024/2024_April.org",
+        "id": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "tags": [
+          "elo",
+          "electric_light_orchestra",
+          "pop_music",
+          "rock_music",
+          "out_of_the_blue-electric_light_orchestra",
+          "happy",
+          "longing"
+        ],
+        "properties": {
+          "CATEGORY": "20240328143221-mr_blue_sky_electric_light_orchestra_out_of_the_blue",
+          "CTIME": "20240328143221",
+          "MTIME": "20240430164143 20240419042746 20240330203733",
+          "YEAR": "1997",
+          "ALBUM": "\"Out of the Blue\"",
+          "ARTIST": "\"Electric Light Orchestra\"",
+          "ID": "ade5279d-d712-4364-8a89-6e4d9ce78ec3",
+          "BLOCKED": "",
+          "ALLTAGS": ":elo:electric_light_orchestra:pop_music:rock_music:out_of_the_blue-electric_light_orchestra:happy:longing:",
+          "FILE": "/home/deck/Documents/org-roam/music/20240328143221-mr_blue_sky_electric_light_orchestra_out_of_the_blue.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Mr Blue Sky - Electric Light Orchestra - Out of the Blue (1977)",
+        "file": "/home/deck/Documents/org-roam/music/20240328143221-mr_blue_sky_electric_light_orchestra_out_of_the_blue.org",
+        "id": "ade5279d-d712-4364-8a89-6e4d9ce78ec3"
+      },
+      {
+        "tags": [
+          "power_connector",
+          "electrical_power"
+        ],
+        "properties": {
+          "CATEGORY": "20240323225516-ca_com_b",
+          "CTIME": "20240323225516",
+          "MTIME": "20240419042747 20240324175124",
+          "ROAM_ALIAS": "\"CA-COM-B\" \"CA-COM\" \"CA-COM Threaded\"",
+          "ID": "ae7ddcb7-5d87-4c15-9eba-5bd16632ec99",
+          "BLOCKED": "",
+          "ALLTAGS": ":power_connector:electrical_power:",
+          "FILE": "/home/deck/Documents/org-roam/20240323225516-ca_com_b.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "ITT CA-COM",
+        "file": "/home/deck/Documents/org-roam/20240323225516-ca_com_b.org",
+        "id": "ae7ddcb7-5d87-4c15-9eba-5bd16632ec99"
+      },
+      {
+        "tags": [
+          "cpu",
+          "central_processing_unit",
+          "computation"
+        ],
+        "properties": {
+          "CATEGORY": "20240323081356-central_processing_unit",
+          "CTIME": "20240323081356",
+          "MTIME": "20240419042747 20240418185518",
+          "ROAM_ALIASES": "CPU",
+          "ID": "b10cabff-a933-4d6e-aa50-8a63df3e4021",
+          "BLOCKED": "",
+          "ALLTAGS": ":cpu:central_processing_unit:computation:",
+          "FILE": "/home/deck/Documents/org-roam/20240323081356-central_processing_unit.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Central processing unit",
+        "file": "/home/deck/Documents/org-roam/20240323081356-central_processing_unit.org",
+        "id": "b10cabff-a933-4d6e-aa50-8a63df3e4021"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "shannonMathematicalTheoryCommunication1948",
+          "CTIME": "20240331192241",
+          "MTIME": "20240419042748 20240331192241",
+          "ROAM_REFS": "@shannonMathematicalTheoryCommunication1948",
+          "ID": "b16e1034-526a-4766-98f1-23b4b51ceb36",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/references/shannonMathematicalTheoryCommunication1948.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Shannon, C. E. - A Mathematical Theory of Communication",
+        "file": "/home/deck/Documents/org-roam/references/shannonMathematicalTheoryCommunication1948.org",
+        "id": "b16e1034-526a-4766-98f1-23b4b51ceb36"
+      },
+      {
+        "tags": [
+          "artificial_intelligence",
+          "ai_safety",
+          "instrumental_goals",
+          "robert_miles",
+          "generality"
+        ],
+        "properties": {
+          "CATEGORY": "141_intro_to_ai_safety_remastered_youtube",
+          "CTIME": "20240321055525",
+          "MTIME": "20240419042748 20240321055525",
+          "ID": "b33f665a-82d4-465f-bcb7-683daa35fd4a",
+          "BLOCKED": "",
+          "ALLTAGS": ":artificial_intelligence:ai_safety:instrumental_goals:robert_miles:generality:",
+          "TAGS": ":generality:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/141_intro_to_ai_safety_remastered_youtube.org",
+          "PRIORITY": "B",
+          "ITEM": "Generality"
+        },
+        "olp": null,
+        "pos": 687,
+        "level": 1,
+        "title": "Generality",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/141_intro_to_ai_safety_remastered_youtube.org",
+        "id": "b33f665a-82d4-465f-bcb7-683daa35fd4a"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "github_akirak_git_identity_el_manage_multiple_git_identities_from_inside_emacs",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042749 20240311002134",
+          "ROAM_REFS": "https://github.com/akirak/git-identity.el",
+          "ID": "b5301cfd-7eaa-4594-9859-43f85fa0ab73",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/github_akirak_git_identity_el_manage_multiple_git_identities_from_inside_emacs.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "GitHub - akirak/git-identity.el: Manage multiple Git identities from inside Emacs",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/github_akirak_git_identity_el_manage_multiple_git_identities_from_inside_emacs.org",
+        "id": "b5301cfd-7eaa-4594-9859-43f85fa0ab73"
+      },
+      {
+        "tags": [
+          "learning",
+          "org_roam",
+          "beginning",
+          "start",
+          "tutorial"
+        ],
+        "properties": {
+          "CATEGORY": "20201004160836-Org-roam_tutorial",
+          "CTIME": "20201004160836",
+          "MTIME": "20240419042749 20240406220611",
+          "ROAM_ALIASES": "Tutorial Start Beginning",
+          "ID": "b5ad19df-c227-49f0-8079-56d5ff96da00",
+          "BLOCKED": "",
+          "ALLTAGS": ":learning:org_roam:beginning:start:tutorial:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201004160836-Org-roam_tutorial.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Org-Roam Tutorial File",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201004160836-Org-roam_tutorial.org",
+        "id": "b5ad19df-c227-49f0-8079-56d5ff96da00"
+      },
+      {
+        "tags": [
+          "against_empathy"
+        ],
+        "properties": {
+          "CATEGORY": "20201012110443-generalized_compassion",
+          "CTIME": "20201012110443",
+          "MTIME": "20240419042750 20240320201423",
+          "ID": "b5d89e03-594b-4560-952c-121183db28da",
+          "BLOCKED": "",
+          "ALLTAGS": ":against_empathy:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201012110443-generalized_compassion.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Generalized Compassion",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201012110443-generalized_compassion.org",
+        "id": "b5d89e03-594b-4560-952c-121183db28da"
+      },
+      {
+        "tags": [
+          "Journal",
+          "October",
+          "2020"
+        ],
+        "properties": {
+          "CATEGORY": "20201006",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042750 20240311002134",
+          "ROAM_ALIASES": "06-10-2020 2020-10-06 \"October 6, 2020\" \"October 6th, 2020\"",
+          "ID": "b64da698-b63f-46e6-a0b6-4ad8e5a97231",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:October:2020:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201006.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 06",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201006.org",
+        "id": "b64da698-b63f-46e6-a0b6-4ad8e5a97231"
+      },
+      {
+        "tags": [
+          "information",
+          "communication",
+          "bit",
+          "statistics",
+          "stochastic",
+          "STUB"
+        ],
+        "properties": {
+          "CATEGORY": "20240331190021-information_theory",
+          "CTIME": "20240331190021",
+          "MTIME": "20240419042751 20240331190617",
+          "ID": "b73304a7-25e1-4b61-bec7-bb7c3ce09e22",
+          "BLOCKED": "",
+          "ALLTAGS": ":information:communication:bit:statistics:stochastic:STUB:",
+          "FILE": "/home/deck/Documents/org-roam/20240331190021-information_theory.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Information Theory",
+        "file": "/home/deck/Documents/org-roam/20240331190021-information_theory.org",
+        "id": "b73304a7-25e1-4b61-bec7-bb7c3ce09e22"
+      },
+      {
+        "tags": [
+          "automation",
+          "rigging",
+          "movement",
+          "suspension",
+          "rotation",
+          "translation"
+        ],
+        "properties": {
+          "CATEGORY": "20240322205014-automation",
+          "CTIME": "20240322205014",
+          "MTIME": "20240419042752 20240322205110",
+          "ID": "b83058df-677b-4200-bd79-3bd89c0e7221",
+          "BLOCKED": "",
+          "ALLTAGS": ":automation:rigging:movement:suspension:rotation:translation:",
+          "FILE": "/home/deck/Documents/org-roam/20240322205014-automation.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Automation",
+        "file": "/home/deck/Documents/org-roam/20240322205014-automation.org",
+        "id": "b83058df-677b-4200-bd79-3bd89c0e7221"
+      },
+      {
+        "tags": [
+          "arithmetic",
+          "mathematics",
+          "calculation"
+        ],
+        "properties": {
+          "CATEGORY": "20201013212324-abacus",
+          "CTIME": "20201013212324",
+          "MTIME": "20240419042752 20240321053743",
+          "ROAM_ALIASES": "Soroban そろばん Suanpan 算盤",
+          "ID": "b93567d6-e9a7-46c0-b6ad-a676f9d3322c",
+          "BLOCKED": "",
+          "ALLTAGS": ":arithmetic:mathematics:calculation:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201013212324-abacus.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Abacus",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201013212324-abacus.org",
+        "id": "b93567d6-e9a7-46c0-b6ad-a676f9d3322c"
+      },
+      {
+        "tags": [
+          "wavelength",
+          "main",
+          "color"
+        ],
+        "properties": {
+          "CATEGORY": "20240320231047-color",
+          "CTIME": "20240320231047",
+          "MTIME": "20240419042753 20240322212654",
+          "ID": "bbc78695-e3dc-4dfa-90ca-5dab51af77c3",
+          "BLOCKED": "",
+          "ALLTAGS": ":wavelength:main:color:",
+          "FILE": "/home/deck/Documents/org-roam/main/20240320231047-color.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Color",
+        "file": "/home/deck/Documents/org-roam/main/20240320231047-color.org",
+        "id": "bbc78695-e3dc-4dfa-90ca-5dab51af77c3"
+      },
+      {
+        "tags": [
+          "STUB",
+          "mathematics",
+          "operation",
+          "iterated_binary_operator",
+          "addition",
+          "summation"
+        ],
+        "properties": {
+          "CATEGORY": "20240501142614-summation",
+          "ID": "bde38df4-5663-4fb9-8a9f-8dd5733f778b",
+          "BLOCKED": "",
+          "ALLTAGS": ":STUB:mathematics:operation:iterated_binary_operator:addition:summation:",
+          "FILE": "/home/deck/Documents/org-roam/20240501142614-summation.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "summation",
+        "file": "/home/deck/Documents/org-roam/20240501142614-summation.org",
+        "id": "bde38df4-5663-4fb9-8a9f-8dd5733f778b"
+      },
+      {
+        "tags": [
+          "data",
+          "hard_drive",
+          "ssd",
+          "secondary_memory",
+          "secondary_storage"
+        ],
+        "properties": {
+          "CATEGORY": "20240323081033-secondary_computer_storage",
+          "CTIME": "20240323081033",
+          "MTIME": "20240419042753 20240418185459",
+          "ROAM_ALIASES": "\"SSD\" \"HDD\" \"Hard Drive\"",
+          "ID": "be6298e3-b248-45d6-8b7b-ea49cefb686d",
+          "BLOCKED": "",
+          "ALLTAGS": ":data:hard_drive:ssd:secondary_memory:secondary_storage:",
+          "FILE": "/home/deck/Documents/org-roam/20240323081033-secondary_computer_storage.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Secondary Computer Storage",
+        "file": "/home/deck/Documents/org-roam/20240323081033-secondary_computer_storage.org",
+        "id": "be6298e3-b248-45d6-8b7b-ea49cefb686d"
+      },
+      {
+        "tags": [
+          "artificial_intelligence",
+          "ai_safety",
+          "computerphile_youtube",
+          "robert_miles",
+          "stop_button_problem"
+        ],
+        "properties": {
+          "CATEGORY": "151_ai_stop_button_problem_computerphile_youtube",
+          "ID": "bee530fb-e741-469d-9f22-4053e69c3513",
+          "BLOCKED": "",
+          "ALLTAGS": ":artificial_intelligence:ai_safety:computerphile_youtube:robert_miles:stop_button_problem:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/151_ai_stop_button_problem_computerphile_youtube.org",
+          "PRIORITY": "B",
+          "ITEM": "[[id:bee530fb-e741-469d-9f22-4053e69c3513][Corrigibility]]"
+        },
+        "olp": null,
+        "pos": 773,
+        "level": 1,
+        "title": "Corrigibility",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/151_ai_stop_button_problem_computerphile_youtube.org",
+        "id": "bee530fb-e741-469d-9f22-4053e69c3513"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_07",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201007",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042754 20240311002134",
+          "ROAM_ALIASES": "10/07/2020 20201007 \"October 07, 2020\"",
+          "ID": "bf031b2a-612c-4e4d-9859-9d65e2133020",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_07:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201007.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 07",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201007.org",
+        "id": "bf031b2a-612c-4e4d-9859-9d65e2133020"
+      },
+      {
+        "tags": [
+          "hyperoperation",
+          "arithmetic",
+          "operation",
+          "mathematics",
+          "succession",
+          "addition",
+          "subtraction",
+          "multiplication",
+          "division",
+          "exponentiation",
+          "root_extraction",
+          "logarithm",
+          "tetration",
+          "super-root",
+          "super-logarithm",
+          "pentation"
+        ],
+        "properties": {
+          "CATEGORY": "20240430222216-hyperoperation",
+          "ID": "bfaf8bce-d719-469b-9d78-2ec3fde0d0f7",
+          "BLOCKED": "",
+          "ALLTAGS": ":hyperoperation:arithmetic:operation:mathematics:succession:addition:subtraction:multiplication:division:exponentiation:root_extraction:logarithm:tetration:super-root:super-logarithm:pentation:",
+          "FILE": "/home/deck/Documents/org-roam/20240430222216-hyperoperation.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "hyperoperation",
+        "file": "/home/deck/Documents/org-roam/20240430222216-hyperoperation.org",
+        "id": "bfaf8bce-d719-469b-9d78-2ec3fde0d0f7"
+      },
+      {
+        "tags": [
+          "artificial_intelligence",
+          "ai_safety",
+          "instrumental_goals",
+          "robert_miles"
+        ],
+        "properties": {
+          "CATEGORY": "141_intro_to_ai_safety_remastered_youtube",
+          "CTIME": "20240321055525 20240419042748",
+          "MTIME": "20240419042754 20240321055525 20240419042748",
+          "ROAM_REFS": "https://www.youtube.com/watch?v=pYXy-A4siMw",
+          "ID": "c15f9ddd-e04b-4c41-9d15-03ed6a99779d",
+          "BLOCKED": "",
+          "ALLTAGS": ":artificial_intelligence:ai_safety:instrumental_goals:robert_miles:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/141_intro_to_ai_safety_remastered_youtube.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Intro to AI Safety, Remastered - YouTube",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/141_intro_to_ai_safety_remastered_youtube.org",
+        "id": "c15f9ddd-e04b-4c41-9d15-03ed6a99779d"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "operation",
+          "subtraction",
+          "minus",
+          "arithmetic"
+        ],
+        "properties": {
+          "CATEGORY": "20240501130607-subtraction",
+          "ID": "c1983e31-a653-41ed-9eee-b33d9418bef8",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:operation:subtraction:minus:arithmetic:",
+          "FILE": "/home/deck/Documents/org-roam/20240501130607-subtraction.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "subtraction",
+        "file": "/home/deck/Documents/org-roam/20240501130607-subtraction.org",
+        "id": "c1983e31-a653-41ed-9eee-b33d9418bef8"
+      },
+      {
+        "tags": [
+          "2020",
+          "Journal",
+          "Coronavirus",
+          "COVID_19"
+        ],
+        "properties": {
+          "CATEGORY": "2020_year",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042754 20240311002134",
+          "ID": "c5704033-2166-4d1b-b065-ae9778ee3d4f",
+          "BLOCKED": "",
+          "ALLTAGS": ":2020:Journal:Coronavirus:COVID_19:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/2020_year.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 Year",
+        "file": "/home/deck/Documents/org-roam/daily/journal/2020_year.org",
+        "id": "c5704033-2166-4d1b-b065-ae9778ee3d4f"
+      },
+      {
+        "tags": [
+          "light",
+          "electronics",
+          "diode"
+        ],
+        "properties": {
+          "CATEGORY": "20240618170345-light_emitting_diode",
+          "ID": "c6e9553e-6262-484a-bc1e-baafdcf4044b",
+          "BLOCKED": "",
+          "ALLTAGS": ":light:electronics:diode:",
+          "FILE": "/home/deck/Documents/org-roam/20240618170345-light_emitting_diode.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "light emitting diode",
+        "file": "/home/deck/Documents/org-roam/20240618170345-light_emitting_diode.org",
+        "id": "c6e9553e-6262-484a-bc1e-baafdcf4044b"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-03",
+          "CTIME": "20240403202209",
+          "MTIME": "20240419042755 20240403202209",
+          "ID": "c8aa55ba-d258-4851-9502-bfd7f18d7a09",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-03.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-03",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-03.org",
+        "id": "c8aa55ba-d258-4851-9502-bfd7f18d7a09"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_13",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201013",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042755 20240311002134",
+          "ROAM_ALIASES": "10/13/2020 20201013 \"October 13, 2020\"",
+          "ID": "c912e6f6-8610-4013-8c84-e1a9096cdd69",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_13:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201013.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 13",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201013.org",
+        "id": "c912e6f6-8610-4013-8c84-e1a9096cdd69"
+      },
+      {
+        "tags": [
+          "safety",
+          "ai",
+          "artificial_intelligence",
+          "philosophy",
+          "ai_safety"
+        ],
+        "properties": {
+          "CATEGORY": "20240417184248-ai_safety",
+          "CTIME": "20240417184248",
+          "MTIME": "20240419042755 20240417184447",
+          "ID": "d0d3dd54-2c7b-4f75-9fc8-dd5e89895143",
+          "BLOCKED": "",
+          "ALLTAGS": ":safety:ai:artificial_intelligence:philosophy:ai_safety:",
+          "FILE": "/home/deck/Documents/org-roam/20240417184248-ai_safety.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "AI Safety",
+        "file": "/home/deck/Documents/org-roam/20240417184248-ai_safety.org",
+        "id": "d0d3dd54-2c7b-4f75-9fc8-dd5e89895143"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_17",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201017",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042756 20240311002134",
+          "ROAM_ALIASES": "10/17/2020 20201017 \"October 17, 2020\"",
+          "ID": "d1d7e5c6-b2d7-41a2-afcf-395d50935e4d",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_17:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201017.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 17",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201017.org",
+        "id": "d1d7e5c6-b2d7-41a2-afcf-395d50935e4d"
+      },
+      {
+        "tags": [
+          "dailies",
+          "2024_April",
+          "2024",
+          "April"
+        ],
+        "properties": {
+          "CATEGORY": "2024-04-29",
+          "CTIME": "20240429101730",
+          "MTIME": "20240429152817 20240429123033 20240429101730",
+          "ID": "d243eb07-1c44-4099-93e9-7838980edbbd",
+          "BLOCKED": "",
+          "ALLTAGS": ":dailies:2024_April:2024:April:",
+          "FILE": "/home/deck/Documents/org-roam/daily/2024-04-29.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2024-04-29",
+        "file": "/home/deck/Documents/org-roam/daily/2024-04-29.org",
+        "id": "d243eb07-1c44-4099-93e9-7838980edbbd"
+      },
+      {
+        "tags": [
+          "game_design",
+          "memory",
+          "zettelkasten",
+          "notetaking",
+          "rpg_characters"
+        ],
+        "properties": {
+          "CATEGORY": "20201007220549-memory_deck_building_game",
+          "CTIME": "20201007220549",
+          "MTIME": "20240419042756 20240404193447",
+          "ROAM_ALIASES": "\"PID Memory Mechanic\"",
+          "ID": "d38d178f-32c9-41b5-9101-caab35fb8e6b",
+          "BLOCKED": "",
+          "ALLTAGS": ":game_design:memory:zettelkasten:notetaking:rpg_characters:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/Tabletop/20201007220549-memory_deck_building_game.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Memory deck building game",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/Tabletop/20201007220549-memory_deck_building_game.org",
+        "id": "d38d178f-32c9-41b5-9101-caab35fb8e6b"
+      },
+      {
+        "tags": [
+          "Journal",
+          "September",
+          "2020"
+        ],
+        "properties": {
+          "CATEGORY": "20200925",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042757 20240311002134",
+          "ID": "d53d6e55-2642-4b47-9cde-3656b042294b",
+          "BLOCKED": "",
+          "ALLTAGS": ":Journal:September:2020:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20200925.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20200925.org",
+        "id": "d53d6e55-2642-4b47-9cde-3656b042294b"
+      },
+      {
+        "tags": [
+          "music",
+          "song",
+          "unwritten_natasha_bedingfield",
+          "natasha_bedingfield",
+          "unwritten_unwritten",
+          "unwritten",
+          "self-determination",
+          "optimism",
+          "happiness"
+        ],
+        "properties": {
+          "CATEGORY": "20240501085929-unwritten_natasha_bedingfield_unwritten",
+          "ID": "d8786f8c-eb6b-4aa9-98ca-5bcac5f986a0",
+          "BLOCKED": "",
+          "ALLTAGS": ":music:song:unwritten_natasha_bedingfield:natasha_bedingfield:unwritten_unwritten:unwritten:self-determination:optimism:happiness:",
+          "FILE": "/home/deck/Documents/org-roam/music/20240501085929-unwritten_natasha_bedingfield_unwritten.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Unwritten - Natasha Bedingfield - Unwritten (2004)",
+        "file": "/home/deck/Documents/org-roam/music/20240501085929-unwritten_natasha_bedingfield_unwritten.org",
+        "id": "d8786f8c-eb6b-4aa9-98ca-5bcac5f986a0"
+      },
+      {
+        "tags": [
+          "personal_knowledge_management",
+          "zettelkasten",
+          "productivity",
+          "graph",
+          "note_taking"
+        ],
+        "properties": {
+          "CATEGORY": "20240622195124-personal_knowledge_management_system",
+          "ID": "d9ea85cd-0b6d-46bd-a3bd-a4f21e94e133",
+          "BLOCKED": "",
+          "ALLTAGS": ":personal_knowledge_management:zettelkasten:productivity:graph:note_taking:",
+          "FILE": "/home/deck/Documents/org-roam/20240622195124-personal_knowledge_management_system.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Personal Knowledge Management System",
+        "file": "/home/deck/Documents/org-roam/20240622195124-personal_knowledge_management_system.org",
+        "id": "d9ea85cd-0b6d-46bd-a3bd-a4f21e94e133"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "2020-10-24",
+          "CTIME": "20240412182855",
+          "MTIME": "20240419042757 20240412182855",
+          "ID": "dab3deb9-8d4a-4aae-aa29-312139f50c40",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/daily/2020-10-24.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020-10-24",
+        "file": "/home/deck/Documents/org-roam/daily/2020-10-24.org",
+        "id": "dab3deb9-8d4a-4aae-aa29-312139f50c40"
+      },
+      {
+        "tags": [
+          "stagecraft",
+          "electrical_power",
+          "stagehand",
+          "appliance_power",
+          "computer_power",
+          "power_connector"
+        ],
+        "properties": {
+          "CATEGORY": "20240321065439-iec_60320_c13_c14",
+          "CTIME": "20240321065439",
+          "MTIME": "20240419042757 20240322011038",
+          "DATA_TYPE": "NA",
+          "DATA_TRANSFER": "NO",
+          "VOLTAGE": "",
+          "AMPERAGFE": "",
+          "POWER_TRANSFER": "YES",
+          "ID": "dcd41c7c-2452-48ab-b860-ab6f6cf34282",
+          "BLOCKED": "",
+          "ALLTAGS": ":stagecraft:electrical_power:stagehand:appliance_power:computer_power:power_connector:",
+          "FILE": "/home/deck/Documents/org-roam/20240321065439-iec_60320_c13_c14.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "IEC 60320 C13-C14",
+        "file": "/home/deck/Documents/org-roam/20240321065439-iec_60320_c13_c14.org",
+        "id": "dcd41c7c-2452-48ab-b860-ab6f6cf34282"
+      },
+      {
+        "tags": [
+          "free_software",
+          "freedom",
+          "social_media",
+          "federated"
+        ],
+        "properties": {
+          "CATEGORY": "20201009074247-freedom_social_media_protocols_and_platforms",
+          "CTIME": "20201009074247",
+          "MTIME": "20240419042758 20240320202954",
+          "ID": "e0c70b14-30c6-48de-9b01-14041b4deaec",
+          "BLOCKED": "",
+          "ALLTAGS": ":free_software:freedom:social_media:federated:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201009074247-freedom_social_media_protocols_and_platforms.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Freedom Social Media Protocols and Platforms",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201009074247-freedom_social_media_protocols_and_platforms.org",
+        "id": "e0c70b14-30c6-48de-9b01-14041b4deaec"
+      },
+      {
+        "tags": [
+          "Project",
+          "game_design",
+          "rpg",
+          "personal_identity",
+          "memory",
+          "psychological_fusion",
+          "psychological_fission",
+          "psychological_continuity"
+        ],
+        "properties": {
+          "CATEGORY": "20201007210016-personal_identity_rpg",
+          "CTIME": "20201007210016",
+          "MTIME": "20240419042758 20240320200111",
+          "ROAM_ALIASES": "PID",
+          "ID": "e27c7b62-e338-4056-917d-a544725d91aa",
+          "BLOCKED": "",
+          "ALLTAGS": ":Project:game_design:rpg:personal_identity:memory:psychological_fusion:psychological_fission:psychological_continuity:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/Tabletop/20201007210016-personal_identity_rpg.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Personal Identity RPG",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/Tabletop/20201007210016-personal_identity_rpg.org",
+        "id": "e27c7b62-e338-4056-917d-a544725d91aa"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "the_roam_ref_protocol_org_roam_user_manual",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042758 20240311002134",
+          "ROAM_REFS": "https://www.orgroam.com/manual/The-roam_002dref-protocol.html#The-roam_002dref-protocol",
+          "ID": "e2cadf42-7d7f-4751-a14f-c24dd5594a27",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/the_roam_ref_protocol_org_roam_user_manual.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "The roam-ref protocol (Org-roam User Manual)",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/the_roam_ref_protocol_org_roam_user_manual.org",
+        "id": "e2cadf42-7d7f-4751-a14f-c24dd5594a27"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "goldmanContextStackNew2019",
+          "CTIME": "20240412082748",
+          "MTIME": "20240419042759 20240412082748",
+          "ROAM_REFS": "@goldmanContextStackNew2019",
+          "ID": "e3c81655-e09b-4409-aa12-0f6842582e77",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/references/goldmanContextStackNew2019.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Goldman, Ben - The Context Stack: A New Way to Visualize Game Rules",
+        "file": "/home/deck/Documents/org-roam/references/goldmanContextStackNew2019.org",
+        "id": "e3c81655-e09b-4409-aa12-0f6842582e77"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "CATEGORY": "diagnosing_and_repairing_files_org_roam_user_manual",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042759 20240311002134",
+          "ROAM_REFS": "https://www.orgroam.com/manual/Diagnosing-and-Repairing-Files.html#Diagnosing-and-Repairing-Files",
+          "ID": "e4354590-539c-402b-835e-85093a717541",
+          "BLOCKED": "",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/diagnosing_and_repairing_files_org_roam_user_manual.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Diagnosing and Repairing Files (Org-roam User Manual)",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/diagnosing_and_repairing_files_org_roam_user_manual.org",
+        "id": "e4354590-539c-402b-835e-85093a717541"
+      },
+      {
+        "tags": [
+          "addition",
+          "mathematics",
+          "arithmetic"
+        ],
+        "properties": {
+          "CATEGORY": "20240430230052-addition",
+          "ID": "e48c630d-f50c-4047-91ed-f1574d9375ce",
+          "BLOCKED": "",
+          "ALLTAGS": ":addition:mathematics:arithmetic:",
+          "FILE": "/home/deck/Documents/org-roam/20240430230052-addition.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Addition",
+        "file": "/home/deck/Documents/org-roam/20240430230052-addition.org",
+        "id": "e48c630d-f50c-4047-91ed-f1574d9375ce"
+      },
+      {
+        "tags": [
+          "elctrical_power",
+          "ac_current",
+          "electricity",
+          "standard",
+          "tesla"
+        ],
+        "properties": {
+          "CATEGORY": "20240429102419-alternating_current",
+          "ROAM_ALIASES": "\"single-phase power\"",
+          "CTIME": "20240429102419",
+          "MTIME": "20240429115808 20240429102515",
+          "ID": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c",
+          "BLOCKED": "",
+          "ALLTAGS": ":elctrical_power:ac_current:electricity:standard:tesla:",
+          "FILE": "/home/deck/Documents/org-roam/20240429102419-alternating_current.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "alternating current",
+        "file": "/home/deck/Documents/org-roam/20240429102419-alternating_current.org",
+        "id": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c"
+      },
+      {
+        "tags": [
+          "vampire",
+          "olivia_rodrigo",
+          "olivia_rodrigo_guts",
+          "music",
+          "song"
+        ],
+        "properties": {
+          "CATEGORY": "20240405222729-vampire_olivia_rodrigo_guts_2023",
+          "CTIME": "20240405222729",
+          "MTIME": "20240419042800 20240405225222",
+          "ID": "e75c45ff-5744-453b-9ad4-96d3a1335cb0",
+          "BLOCKED": "",
+          "ALLTAGS": ":vampire:olivia_rodrigo:olivia_rodrigo_guts:music:song:",
+          "FILE": "/home/deck/Documents/org-roam/music/20240405222729-vampire_olivia_rodrigo_guts_2023.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Vampire - Olivia Rodrigo - Guts (2023)",
+        "file": "/home/deck/Documents/org-roam/music/20240405222729-vampire_olivia_rodrigo_guts_2023.org",
+        "id": "e75c45ff-5744-453b-9ad4-96d3a1335cb0"
+      },
+      {
+        "tags": [
+          "anthropology",
+          "cooperation",
+          "intelligence",
+          "robin_dunbar",
+          "social"
+        ],
+        "properties": {
+          "CATEGORY": "20220506073918-social_brain_hypothesis",
+          "CTIME": "20220506073918",
+          "MTIME": "20240419042800 20240320202723",
+          "ID": "ec164ac0-63a4-4fce-aac7-c1221e193b1e",
+          "BLOCKED": "",
+          "ALLTAGS": ":anthropology:cooperation:intelligence:robin_dunbar:social:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/20220506073918-social_brain_hypothesis.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Social Brain Hypothesis",
+        "file": "/home/deck/Documents/org-roam/org-roam-zettelkasten-v2/20220506073918-social_brain_hypothesis.org",
+        "id": "ec164ac0-63a4-4fce-aac7-c1221e193b1e"
+      },
+      {
+        "tags": [
+          "audio",
+          "video",
+          "multimedia",
+          "display",
+          "data_cable",
+          "stagehand",
+          "stagecraft"
+        ],
+        "properties": {
+          "CATEGORY": "20240323212120-hdmi",
+          "CTIME": "20240323212120",
+          "MTIME": "20240419042800 20240328230827",
+          "ID": "ec864691-4d97-490a-9439-ad13e09a6b5d",
+          "BLOCKED": "",
+          "ALLTAGS": ":audio:video:multimedia:display:data_cable:stagehand:stagecraft:",
+          "FILE": "/home/deck/Documents/org-roam/20240323212120-hdmi.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "HDMI",
+        "file": "/home/deck/Documents/org-roam/20240323212120-hdmi.org",
+        "id": "ec864691-4d97-490a-9439-ad13e09a6b5d"
+      },
+      {
+        "tags": [
+          "audio",
+          "speakon",
+          "nl4",
+          "power_connector",
+          "loudspeaker",
+          "pa_system"
+        ],
+        "properties": {
+          "CATEGORY": "20240323230327-neutrik_nl4",
+          "CTIME": "20240323230327",
+          "MTIME": "20240419042803 20240401074426",
+          "ID": "ed1e6f52-b16f-44e0-ab87-a78584045d95",
+          "BLOCKED": "",
+          "ALLTAGS": ":audio:speakon:nl4:power_connector:loudspeaker:pa_system:",
+          "FILE": "/home/deck/Documents/org-roam/20240323230327-neutrik_nl4.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Neutrik NL4",
+        "file": "/home/deck/Documents/org-roam/20240323230327-neutrik_nl4.org",
+        "id": "ed1e6f52-b16f-44e0-ab87-a78584045d95"
+      },
+      {
+        "tags": [
+          "October",
+          "2020",
+          "October_19",
+          "Journal"
+        ],
+        "properties": {
+          "CATEGORY": "20201019",
+          "CTIME": "20240311002134",
+          "MTIME": "20240419042803 20240311002134",
+          "ROAM_ALIASES": "10/19/2020 20201019 \"October 19, 2020\"",
+          "ID": "f0601d0d-80b3-4cad-abab-4bbfe9fb8cfe",
+          "BLOCKED": "",
+          "ALLTAGS": ":October:2020:October_19:Journal:",
+          "FILE": "/home/deck/Documents/org-roam/daily/journal/20201019.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "2020 October 19",
+        "file": "/home/deck/Documents/org-roam/daily/journal/20201019.org",
+        "id": "f0601d0d-80b3-4cad-abab-4bbfe9fb8cfe"
+      },
+      {
+        "tags": [
+          "light",
+          "signal_processing",
+          "photography",
+          "photos",
+          "digital_photography",
+          "film_photography",
+          "cameras"
+        ],
+        "properties": {
+          "CATEGORY": "20240321182955-photography",
+          "CTIME": "20240321182955",
+          "MTIME": "20240419042804 20240321201050",
+          "ID": "f1fd751f-5939-4a86-b6fd-e2b82eab6ebb",
+          "BLOCKED": "",
+          "ALLTAGS": ":light:signal_processing:photography:photos:digital_photography:film_photography:cameras:",
+          "FILE": "/home/deck/Documents/org-roam/20240321182955-photography.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Photography",
+        "file": "/home/deck/Documents/org-roam/20240321182955-photography.org",
+        "id": "f1fd751f-5939-4a86-b6fd-e2b82eab6ebb"
+      },
+      {
+        "tags": [
+          "audio",
+          "sound",
+          "music"
+        ],
+        "properties": {
+          "CATEGORY": "20240322204630-audio",
+          "CTIME": "20240322204630",
+          "MTIME": "20240419042804 20240322204654",
+          "ID": "f615e59a-1b4f-4a36-8d1a-fce49bf683e9",
+          "BLOCKED": "",
+          "ALLTAGS": ":audio:sound:music:",
+          "FILE": "/home/deck/Documents/org-roam/20240322204630-audio.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "live audio production",
+        "file": "/home/deck/Documents/org-roam/20240322204630-audio.org",
+        "id": "f615e59a-1b4f-4a36-8d1a-fce49bf683e9"
+      },
+      {
+        "tags": [
+          "mathematics",
+          "trigonometry",
+          "right_triangles",
+          "sin",
+          "trigonometric_ratio"
+        ],
+        "properties": {
+          "CATEGORY": "20240429134305-trigonometry",
+          "CTIME": "20240429134305",
+          "MTIME": "20240429134949",
+          "ID": "f7833289-8575-47ec-8959-c5701fd705cd",
+          "BLOCKED": "",
+          "ALLTAGS": ":mathematics:trigonometry:right_triangles:sin:trigonometric_ratio:",
+          "FILE": "/home/deck/Documents/org-roam/20240429134305-trigonometry.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "trigonometry",
+        "file": "/home/deck/Documents/org-roam/20240429134305-trigonometry.org",
+        "id": "f7833289-8575-47ec-8959-c5701fd705cd"
+      },
+      {
+        "tags": [
+          "recording",
+          "cinematography",
+          "video",
+          "frame_rate",
+          "camera",
+          "shutter_speed"
+        ],
+        "properties": {
+          "CATEGORY": "20240326200915-camera_video",
+          "CTIME": "20240326200915",
+          "MTIME": "20240419042804 20240326202550",
+          "ROAM_ALIASES": "\"video camera\" \"Video camera\"",
+          "ID": "f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb",
+          "BLOCKED": "",
+          "ALLTAGS": ":recording:cinematography:video:frame_rate:camera:shutter_speed:",
+          "FILE": "/home/deck/Documents/org-roam/20240326200915-camera_video.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Camera (video)",
+        "file": "/home/deck/Documents/org-roam/20240326200915-camera_video.org",
+        "id": "f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb"
+      },
+      {
+        "tags": [
+          "loudspeaker",
+          "speaker",
+          "audio",
+          "pa_system",
+          "public_address",
+          "sound_reinforcement"
+        ],
+        "properties": {
+          "CATEGORY": "20240327200313-loudspeaker",
+          "ID": "f8819b9f-d8b5-4aaf-a8f8-20d69c20ab89",
+          "BLOCKED": "",
+          "ALLTAGS": ":loudspeaker:speaker:audio:pa_system:public_address:sound_reinforcement:",
+          "FILE": "/home/deck/Documents/org-roam/20240327200313-loudspeaker.org",
+          "PRIORITY": "B",
+          "ITEM": "loudspeakers by frequency response"
+        },
+        "olp": [
+          "Types"
+        ],
+        "pos": 276,
+        "level": 2,
+        "title": "loudspeakers by frequency response",
+        "file": "/home/deck/Documents/org-roam/20240327200313-loudspeaker.org",
+        "id": "f8819b9f-d8b5-4aaf-a8f8-20d69c20ab89"
+      },
+      {
+        "tags": [
+          "effective_altruism",
+          "generalized_compassion",
+          "against_empathy"
+        ],
+        "properties": {
+          "CATEGORY": "20201012141612-effective_altruism",
+          "CTIME": "20201012141612",
+          "MTIME": "20240419042804 20240311002134",
+          "ID": "fa713db8-32e6-4b9d-914a-a7811193087c",
+          "BLOCKED": "",
+          "ALLTAGS": ":effective_altruism:generalized_compassion:against_empathy:",
+          "FILE": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201012141612-effective_altruism.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Effective Altruism",
+        "file": "/home/deck/Documents/org-roam/org-roam-knowledge-base/20201012141612-effective_altruism.org",
+        "id": "fa713db8-32e6-4b9d-914a-a7811193087c"
+      },
+      {
+        "tags": [
+          "rigging",
+          "stagecraft",
+          "rope",
+          "span",
+          "GAC"
+        ],
+        "properties": {
+          "CATEGORY": "20240521150744-rigging",
+          "ID": "fc53a7bd-ce6c-4083-a612-d5d292683722",
+          "BLOCKED": "",
+          "ALLTAGS": ":rigging:stagecraft:rope:span:GAC:",
+          "FILE": "/home/deck/Documents/org-roam/20240521150744-rigging.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "Rigging",
+        "file": "/home/deck/Documents/org-roam/20240521150744-rigging.org",
+        "id": "fc53a7bd-ce6c-4083-a612-d5d292683722"
+      },
+      {
+        "tags": [
+          "color",
+          "rgb",
+          "trichromatic",
+          "polychromatic",
+          "gamut"
+        ],
+        "properties": {
+          "CATEGORY": "20240322210419-rgb_color_space",
+          "CTIME": "20240322210419",
+          "MTIME": "20240419042804 20240322212110",
+          "ROAM_ALIASES": "RGB",
+          "ID": "fe0e9416-19a3-4348-b76b-73363fdc89e0",
+          "BLOCKED": "",
+          "ALLTAGS": ":color:rgb:trichromatic:polychromatic:gamut:",
+          "FILE": "/home/deck/Documents/org-roam/20240322210419-rgb_color_space.org",
+          "PRIORITY": "B"
+        },
+        "olp": null,
+        "pos": 1,
+        "level": 0,
+        "title": "RGB Color Space",
+        "file": "/home/deck/Documents/org-roam/20240322210419-rgb_color_space.org",
+        "id": "fe0e9416-19a3-4348-b76b-73363fdc89e0"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "ROAM_REFS": "cite:baumWhatRadicalBehaviorism2011",
+          "FILELESS": true
+        },
+        "olp": null,
+        "pos": 0,
+        "level": 0,
+        "title": "baumWhatRadicalBehaviorism2011",
+        "file": "baumWhatRadicalBehaviorism2011",
+        "id": "baumWhatRadicalBehaviorism2011"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "ROAM_REFS": "cite:chomskyReviewVerbalBehavior1959",
+          "FILELESS": true
+        },
+        "olp": null,
+        "pos": 0,
+        "level": 0,
+        "title": "chomskyReviewVerbalBehavior1959",
+        "file": "chomskyReviewVerbalBehavior1959",
+        "id": "chomskyReviewVerbalBehavior1959"
+      },
+      {
+        "tags": [
+          null
+        ],
+        "properties": {
+          "ROAM_REFS": "cite:raritanAlternatingCurrentExplained2018",
+          "FILELESS": true
+        },
+        "olp": null,
+        "pos": 0,
+        "level": 0,
+        "title": "raritanAlternatingCurrentExplained2018",
+        "file": "raritanAlternatingCurrentExplained2018",
+        "id": "raritanAlternatingCurrentExplained2018"
+      }
+    ],
+    "links": [
+      {
+        "type": "ref",
+        "target": "9388f82f-9fff-4a06-9f74-a1e1306f2ce9",
+        "source": "71819bef-7529-4ad3-a95b-d6723f581d77"
+      },
+      {
+        "type": "ref",
+        "target": "70a6e20d-bb58-49b9-b869-ffb7113baef6",
+        "source": "5e723cbb-2154-47e3-bea6-255b45385dc3"
+      },
+      {
+        "type": "ref",
+        "target": "a2b9b98b-907f-48a7-ac83-f39dae4bc06f",
+        "source": "ec164ac0-63a4-4fce-aac7-c1221e193b1e"
+      },
+      {
+        "type": "ref",
+        "target": "9388f82f-9fff-4a06-9f74-a1e1306f2ce9",
+        "source": "e27c7b62-e338-4056-917d-a544725d91aa"
+      },
+      {
+        "type": "ref",
+        "target": "71819bef-7529-4ad3-a95b-d6723f581d77",
+        "source": "e27c7b62-e338-4056-917d-a544725d91aa"
+      },
+      {
+        "type": "ref",
+        "target": "9003695b-ef75-47a9-8377-5889dace643a",
+        "source": "e27c7b62-e338-4056-917d-a544725d91aa"
+      },
+      {
+        "type": "ref",
+        "target": "1aaec11d-8414-445e-9c69-180722ef09a2",
+        "source": "b5d89e03-594b-4560-952c-121183db28da"
+      },
+      {
+        "type": "ref",
+        "target": "9388f82f-9fff-4a06-9f74-a1e1306f2ce9",
+        "source": "b5d89e03-594b-4560-952c-121183db28da"
+      },
+      {
+        "type": "ref",
+        "target": "3bdb6e54-a072-4c06-a1c6-92441fe03a62",
+        "source": "bbc78695-e3dc-4dfa-90ca-5dab51af77c3"
+      },
+      {
+        "type": "ref",
+        "target": "e3c81655-e09b-4409-aa12-0f6842582e77",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "ref",
+        "target": "e3c81655-e09b-4409-aa12-0f6842582e77",
+        "source": "0fe1be02-1b4d-433b-b231-3f9eb7c30f8c"
+      },
+      {
+        "type": "cite",
+        "target": "baumWhatRadicalBehaviorism2011",
+        "source": "6933d2ab-22fb-4c01-ab81-57f7802729e2"
+      },
+      {
+        "type": "cite",
+        "target": "chomskyReviewVerbalBehavior1959",
+        "source": "6933d2ab-22fb-4c01-ab81-57f7802729e2"
+      },
+      {
+        "type": "cite",
+        "target": "raritanAlternatingCurrentExplained2018",
+        "source": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c"
+      },
+      {
+        "type": "ref",
+        "target": "873b545f-b959-4299-b44a-fbc13c29a8bf",
+        "source": "21cd2a48-a9bb-4564-b42d-6c94b583f0a8"
+      },
+      {
+        "type": "ref",
+        "target": "62d3ad0b-a182-4073-ab34-1c59d4c051ec",
+        "source": "a2c8c554-858d-46bc-8e0e-0bbbd1b9e58f"
+      },
+      {
+        "type": "ref",
+        "target": "5e723cbb-2154-47e3-bea6-255b45385dc3",
+        "source": "9ff3fce5-1180-4014-b502-d9107b2cef10"
+      },
+      {
+        "type": "ref",
+        "target": "5e723cbb-2154-47e3-bea6-255b45385dc3",
+        "source": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267"
+      },
+      {
+        "type": "ref",
+        "target": "b16e1034-526a-4766-98f1-23b4b51ceb36",
+        "source": "b73304a7-25e1-4b61-bec7-bb7c3ce09e22"
+      },
+      {
+        "type": "ref",
+        "target": "5f6da6e5-3670-4cef-a59a-4c0aba050515",
+        "source": "b73304a7-25e1-4b61-bec7-bb7c3ce09e22"
+      },
+      {
+        "type": "ref",
+        "target": "8ecdbfe3-91ba-4196-a539-2db4813be46e",
+        "source": "8f6a9ea8-b658-4967-92cc-76d9c2ad83a1"
+      },
+      {
+        "type": "cite",
+        "target": "raritanAlternatingCurrentExplained2018",
+        "source": "873b545f-b959-4299-b44a-fbc13c29a8bf"
+      },
+      {
+        "type": "id",
+        "target": "a2ec40d1-1895-4431-9c94-148af35774ee",
+        "source": "8e0a3060-cd4d-41eb-a029-6e3389cd6b03"
+      },
+      {
+        "type": "id",
+        "target": "9003695b-ef75-47a9-8377-5889dace643a",
+        "source": "71819bef-7529-4ad3-a95b-d6723f581d77"
+      },
+      {
+        "type": "id",
+        "target": "d0d3dd54-2c7b-4f75-9fc8-dd5e89895143",
+        "source": "3346649d-762d-43b1-ba3a-f60be6bcdc71"
+      },
+      {
+        "type": "id",
+        "target": "bee530fb-e741-469d-9f22-4053e69c3513",
+        "source": "bee530fb-e741-469d-9f22-4053e69c3513"
+      },
+      {
+        "type": "id",
+        "target": "00c7e9d1-76cd-4801-883a-11c576b08596",
+        "source": "3346649d-762d-43b1-ba3a-f60be6bcdc71"
+      },
+      {
+        "type": "id",
+        "target": "3346649d-762d-43b1-ba3a-f60be6bcdc71",
+        "source": "c15f9ddd-e04b-4c41-9d15-03ed6a99779d"
+      },
+      {
+        "type": "id",
+        "target": "d38d178f-32c9-41b5-9101-caab35fb8e6b",
+        "source": "3f695d88-e559-4c30-9c69-4e1cc5000580"
+      },
+      {
+        "type": "id",
+        "target": "b5ad19df-c227-49f0-8079-56d5ff96da00",
+        "source": "e2cadf42-7d7f-4751-a14f-c24dd5594a27"
+      },
+      {
+        "type": "id",
+        "target": "e27c7b62-e338-4056-917d-a544725d91aa",
+        "source": "b5301cfd-7eaa-4594-9859-43f85fa0ab73"
+      },
+      {
+        "type": "id",
+        "target": "b5ad19df-c227-49f0-8079-56d5ff96da00",
+        "source": "e4354590-539c-402b-835e-85093a717541"
+      },
+      {
+        "type": "id",
+        "target": "e27c7b62-e338-4056-917d-a544725d91aa",
+        "source": "d38d178f-32c9-41b5-9101-caab35fb8e6b"
+      },
+      {
+        "type": "id",
+        "target": "1f2728d2-482f-4e66-98b5-ca7348c55e44",
+        "source": "d38d178f-32c9-41b5-9101-caab35fb8e6b"
+      },
+      {
+        "type": "id",
+        "target": "d38d178f-32c9-41b5-9101-caab35fb8e6b",
+        "source": "e27c7b62-e338-4056-917d-a544725d91aa"
+      },
+      {
+        "type": "id",
+        "target": "7eec0c51-61c8-42c9-9101-b113b1ad3510",
+        "source": "e27c7b62-e338-4056-917d-a544725d91aa"
+      },
+      {
+        "type": "id",
+        "target": "b5ad19df-c227-49f0-8079-56d5ff96da00",
+        "source": "a49c137b-757f-4ff9-b10a-ce95c4ec097b"
+      },
+      {
+        "type": "id",
+        "target": "00994f71-0709-4af9-ac22-1e820f281cb0",
+        "source": "a49c137b-757f-4ff9-b10a-ce95c4ec097b"
+      },
+      {
+        "type": "id",
+        "target": "2b3a351a-9dc8-411a-84c9-746f49151541",
+        "source": "b93567d6-e9a7-46c0-b6ad-a676f9d3322c"
+      },
+      {
+        "type": "id",
+        "target": "b5d89e03-594b-4560-952c-121183db28da",
+        "source": "fa713db8-32e6-4b9d-914a-a7811193087c"
+      },
+      {
+        "type": "id",
+        "target": "b5d89e03-594b-4560-952c-121183db28da",
+        "source": "652a67b2-9f94-4327-845e-9e33918c11f1"
+      },
+      {
+        "type": "id",
+        "target": "982a2b3c-e3bf-4e5c-9745-f70ae10e7f53",
+        "source": "b5ad19df-c227-49f0-8079-56d5ff96da00"
+      },
+      {
+        "type": "id",
+        "target": "e2cadf42-7d7f-4751-a14f-c24dd5594a27",
+        "source": "b5ad19df-c227-49f0-8079-56d5ff96da00"
+      },
+      {
+        "type": "id",
+        "target": "e4354590-539c-402b-835e-85093a717541",
+        "source": "b5ad19df-c227-49f0-8079-56d5ff96da00"
+      },
+      {
+        "type": "id",
+        "target": "441cd5d3-ab2e-4ae6-b137-706c7ab162f0",
+        "source": "b5ad19df-c227-49f0-8079-56d5ff96da00"
+      },
+      {
+        "type": "id",
+        "target": "17e4cb1f-aa99-4071-947e-519a77e1ae87",
+        "source": "845ba2f2-a5b9-4fce-8e8d-842cad9b02e5"
+      },
+      {
+        "type": "id",
+        "target": "bf1b6c25-cd8b-4490-94ed-8097d97f68c5",
+        "source": "bbc78695-e3dc-4dfa-90ca-5dab51af77c3"
+      },
+      {
+        "type": "id",
+        "target": "fe0e9416-19a3-4348-b76b-73363fdc89e0",
+        "source": "bbc78695-e3dc-4dfa-90ca-5dab51af77c3"
+      },
+      {
+        "type": "id",
+        "target": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b",
+        "source": "18ee20c9-41b1-42b5-9e44-26277a5bfa33"
+      },
+      {
+        "type": "id",
+        "target": "ac6856d4-1d5c-4bed-9401-701921e860bc",
+        "source": "18ee20c9-41b1-42b5-9e44-26277a5bfa33"
+      },
+      {
+        "type": "id",
+        "target": "18ee20c9-41b1-42b5-9e44-26277a5bfa33",
+        "source": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b"
+      },
+      {
+        "type": "id",
+        "target": "18ee20c9-41b1-42b5-9e44-26277a5bfa33",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "6195f09f-6521-4720-9cbc-c3fd7554350a",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "2913c932-ad80-4d60-a3bf-a1a515811c9b",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "c8aa55ba-d258-4851-9502-bfd7f18d7a09",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "3834d085-6a94-4c4f-b836-8c06e0ef20a6",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "544adf11-cff6-4db9-9cbc-b1a45b65211f",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "0fe1be02-1b4d-433b-b231-3f9eb7c30f8c",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "6f992f49-73e5-49df-a61a-95d3edd404cf",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "d243eb07-1c44-4099-93e9-7838980edbbd",
+        "source": "ac6856d4-1d5c-4bed-9401-701921e860bc"
+      },
+      {
+        "type": "id",
+        "target": "00994f71-0709-4af9-ac22-1e820f281cb0",
+        "source": "c5704033-2166-4d1b-b065-ae9778ee3d4f"
+      },
+      {
+        "type": "id",
+        "target": "c5704033-2166-4d1b-b065-ae9778ee3d4f",
+        "source": "a924a433-5181-4a95-abdf-fa2d56848a54"
+      },
+      {
+        "type": "id",
+        "target": "c5704033-2166-4d1b-b065-ae9778ee3d4f",
+        "source": "5b80c833-cf9e-417b-ac13-93abb21bf749"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "f0601d0d-80b3-4cad-abab-4bbfe9fb8cfe"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "d1d7e5c6-b2d7-41a2-afcf-395d50935e4d"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "13f7c07c-1999-4067-b65e-408977e99b40"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "74d41ee8-0ab4-4a7a-9fac-52d982949a50"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "c912e6f6-8610-4013-8c84-e1a9096cdd69"
+      },
+      {
+        "type": "id",
+        "target": "b93567d6-e9a7-46c0-b6ad-a676f9d3322c",
+        "source": "c912e6f6-8610-4013-8c84-e1a9096cdd69"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "2378096a-cb6c-4bca-b4b7-0bfbc9a1f955"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "58c143ad-cb5d-424e-a181-d296e1c5a340"
+      },
+      {
+        "type": "id",
+        "target": "652a67b2-9f94-4327-845e-9e33918c11f1",
+        "source": "58c143ad-cb5d-424e-a181-d296e1c5a340"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "6900f44c-bfbe-44e8-ac98-f38079e388f8"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "7ea0949d-63b1-43b5-a9db-feca6bc9bd02"
+      },
+      {
+        "type": "id",
+        "target": "e0c70b14-30c6-48de-9b01-14041b4deaec",
+        "source": "7ea0949d-63b1-43b5-a9db-feca6bc9bd02"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "7b2bc690-d5db-44f0-a38b-8f4be6e7712f"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "bf031b2a-612c-4e4d-9859-9d65e2133020"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "b64da698-b63f-46e6-a0b6-4ad8e5a97231"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "60739a26-9bc9-40a1-9621-78047f575bf7"
+      },
+      {
+        "type": "id",
+        "target": "a924a433-5181-4a95-abdf-fa2d56848a54",
+        "source": "346f278a-3273-4b0b-9981-1f9a5232c4a4"
+      },
+      {
+        "type": "id",
+        "target": "a924a433-5181-4a95-abdf-fa2d56848a54",
+        "source": "4671a233-8166-42a2-932e-3479a2f5dac4"
+      },
+      {
+        "type": "id",
+        "target": "a924a433-5181-4a95-abdf-fa2d56848a54",
+        "source": "d53d6e55-2642-4b47-9cde-3656b042294b"
+      },
+      {
+        "type": "id",
+        "target": "a924a433-5181-4a95-abdf-fa2d56848a54",
+        "source": "33a9dc09-c535-490e-8d48-e84c68f9dc15"
+      },
+      {
+        "type": "id",
+        "target": "a924a433-5181-4a95-abdf-fa2d56848a54",
+        "source": "8ce67e8c-a10a-45ea-a597-7a65050f8989"
+      },
+      {
+        "type": "id",
+        "target": "ac6856d4-1d5c-4bed-9401-701921e860bc",
+        "source": "d243eb07-1c44-4099-93e9-7838980edbbd"
+      },
+      {
+        "type": "id",
+        "target": "ac6856d4-1d5c-4bed-9401-701921e860bc",
+        "source": "6f992f49-73e5-49df-a61a-95d3edd404cf"
+      },
+      {
+        "type": "id",
+        "target": "ac6856d4-1d5c-4bed-9401-701921e860bc",
+        "source": "0fe1be02-1b4d-433b-b231-3f9eb7c30f8c"
+      },
+      {
+        "type": "id",
+        "target": "ac6856d4-1d5c-4bed-9401-701921e860bc",
+        "source": "544adf11-cff6-4db9-9cbc-b1a45b65211f"
+      },
+      {
+        "type": "id",
+        "target": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b",
+        "source": "5791dcef-add4-4eaa-abe1-b48052170ca5"
+      },
+      {
+        "type": "id",
+        "target": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267",
+        "source": "5791dcef-add4-4eaa-abe1-b48052170ca5"
+      },
+      {
+        "type": "id",
+        "target": "00775a4b-e515-42f1-896d-eae818f77481",
+        "source": "5791dcef-add4-4eaa-abe1-b48052170ca5"
+      },
+      {
+        "type": "id",
+        "target": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b",
+        "source": "941a4471-07bd-49a7-b5b1-b994669b114b"
+      },
+      {
+        "type": "id",
+        "target": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b",
+        "source": "2628f95e-6d70-43b6-9969-0af2e37ae7a2"
+      },
+      {
+        "type": "id",
+        "target": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b",
+        "source": "4ab8adfd-bf96-422b-9baf-55d1473936d9"
+      },
+      {
+        "type": "id",
+        "target": "5bd3e0a0-6e5e-46ed-8696-b6e51bd8fc4b",
+        "source": "9033e398-d588-4371-bcb4-ebad10c86184"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "dab3deb9-8d4a-4aae-aa29-312139f50c40"
+      },
+      {
+        "type": "id",
+        "target": "5b80c833-cf9e-417b-ac13-93abb21bf749",
+        "source": "1ee7ef11-c5b5-4062-841c-e57deb89485e"
+      },
+      {
+        "type": "id",
+        "target": "3ac1a89a-7720-4790-98f6-3722eb4b545c",
+        "source": "a6160b49-6d42-4207-8359-59bb800ae798"
+      },
+      {
+        "type": "id",
+        "target": "71f58f7a-aa92-4ee7-a23f-c69930f88f11",
+        "source": "a6160b49-6d42-4207-8359-59bb800ae798"
+      },
+      {
+        "type": "id",
+        "target": "a6160b49-6d42-4207-8359-59bb800ae798",
+        "source": "3ac1a89a-7720-4790-98f6-3722eb4b545c"
+      },
+      {
+        "type": "id",
+        "target": "c6e9553e-6262-484a-bc1e-baafdcf4044b",
+        "source": "4d9f5527-4af9-489a-ad9a-559f6e70ab49"
+      },
+      {
+        "type": "id",
+        "target": "f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb",
+        "source": "6cabbe77-ffae-4dc0-aef6-c1d5d486157b"
+      },
+      {
+        "type": "id",
+        "target": "b10cabff-a933-4d6e-aa50-8a63df3e4021",
+        "source": "9b0b72e9-2759-4a0c-9870-a9ee74c0bbeb"
+      },
+      {
+        "type": "id",
+        "target": "1aaddec5-7288-4492-bab8-692098a50a58",
+        "source": "9b0b72e9-2759-4a0c-9870-a9ee74c0bbeb"
+      },
+      {
+        "type": "id",
+        "target": "00775a4b-e515-42f1-896d-eae818f77481",
+        "source": "8c1f6c70-c956-443a-8ab4-18d97471765f"
+      },
+      {
+        "type": "id",
+        "target": "8b4f316f-20fa-4625-a742-2770dac0011b",
+        "source": "8c1f6c70-c956-443a-8ab4-18d97471765f"
+      },
+      {
+        "type": "id",
+        "target": "a2c8c554-858d-46bc-8e0e-0bbbd1b9e58f",
+        "source": "3145801f-2756-475d-a934-b10d604de7bb"
+      },
+      {
+        "type": "id",
+        "target": "3145801f-2756-475d-a934-b10d604de7bb",
+        "source": "6933d2ab-22fb-4c01-ab81-57f7802729e2"
+      },
+      {
+        "type": "id",
+        "target": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267",
+        "source": "6933d2ab-22fb-4c01-ab81-57f7802729e2"
+      },
+      {
+        "type": "id",
+        "target": "0c0ade61-f327-45b8-bfce-2a9ea38bbede",
+        "source": "f7833289-8575-47ec-8959-c5701fd705cd"
+      },
+      {
+        "type": "id",
+        "target": "26f87673-2230-422b-b3e5-82614371be1d",
+        "source": "f7833289-8575-47ec-8959-c5701fd705cd"
+      },
+      {
+        "type": "id",
+        "target": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c",
+        "source": "83d79a7a-a279-40b7-bc16-48a0320248f3"
+      },
+      {
+        "type": "id",
+        "target": "83d79a7a-a279-40b7-bc16-48a0320248f3",
+        "source": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c"
+      },
+      {
+        "type": "id",
+        "target": "387a1422-ff3c-47a9-9ad5-6e5162caaa39",
+        "source": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c"
+      },
+      {
+        "type": "id",
+        "target": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c",
+        "source": "21cd2a48-a9bb-4564-b42d-6c94b583f0a8"
+      },
+      {
+        "type": "id",
+        "target": "c15f9ddd-e04b-4c41-9d15-03ed6a99779d",
+        "source": "d0d3dd54-2c7b-4f75-9fc8-dd5e89895143"
+      },
+      {
+        "type": "id",
+        "target": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267",
+        "source": "8b4f316f-20fa-4625-a742-2770dac0011b"
+      },
+      {
+        "type": "id",
+        "target": "8c1f6c70-c956-443a-8ab4-18d97471765f",
+        "source": "00775a4b-e515-42f1-896d-eae818f77481"
+      },
+      {
+        "type": "id",
+        "target": "6933d2ab-22fb-4c01-ab81-57f7802729e2",
+        "source": "9ff3fce5-1180-4014-b502-d9107b2cef10"
+      },
+      {
+        "type": "id",
+        "target": "9ff3fce5-1180-4014-b502-d9107b2cef10",
+        "source": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267"
+      },
+      {
+        "type": "id",
+        "target": "8b4f316f-20fa-4625-a742-2770dac0011b",
+        "source": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267"
+      },
+      {
+        "type": "id",
+        "target": "b73304a7-25e1-4b61-bec7-bb7c3ce09e22",
+        "source": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267"
+      },
+      {
+        "type": "id",
+        "target": "00775a4b-e515-42f1-896d-eae818f77481",
+        "source": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267"
+      },
+      {
+        "type": "id",
+        "target": "4b68a874-9d45-4eb6-9b1d-57c500d21a7a",
+        "source": "8ab6b612-c794-4ab8-89d2-1a0613c324e8"
+      },
+      {
+        "type": "id",
+        "target": "ec864691-4d97-490a-9439-ad13e09a6b5d",
+        "source": "8ab6b612-c794-4ab8-89d2-1a0613c324e8"
+      },
+      {
+        "type": "id",
+        "target": "69d1972a-e34e-4508-822a-350505d17b33",
+        "source": "8ab6b612-c794-4ab8-89d2-1a0613c324e8"
+      },
+      {
+        "type": "id",
+        "target": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0",
+        "source": "8ab6b612-c794-4ab8-89d2-1a0613c324e8"
+      },
+      {
+        "type": "id",
+        "target": "fe0e9416-19a3-4348-b76b-73363fdc89e0",
+        "source": "93e55fc1-479b-4504-9900-c69b45683bef"
+      },
+      {
+        "type": "id",
+        "target": "4b68a874-9d45-4eb6-9b1d-57c500d21a7a",
+        "source": "f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb"
+      },
+      {
+        "type": "id",
+        "target": "f615e59a-1b4f-4a36-8d1a-fce49bf683e9",
+        "source": "f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb"
+      },
+      {
+        "type": "id",
+        "target": "63e7c813-e9e0-4639-9934-90461797b64e",
+        "source": "f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb"
+      },
+      {
+        "type": "id",
+        "target": "85611eff-4d7c-4e5c-8169-dfc70383df0c",
+        "source": "ed1e6f52-b16f-44e0-ab87-a78584045d95"
+      },
+      {
+        "type": "id",
+        "target": "f615e59a-1b4f-4a36-8d1a-fce49bf683e9",
+        "source": "ed1e6f52-b16f-44e0-ab87-a78584045d95"
+      },
+      {
+        "type": "id",
+        "target": "58d3a07b-4925-4ba2-8902-fa6a148d0d16",
+        "source": "ed1e6f52-b16f-44e0-ab87-a78584045d95"
+      },
+      {
+        "type": "id",
+        "target": "a4653e16-456a-4127-85f5-8c5d536bea16",
+        "source": "ae7ddcb7-5d87-4c15-9eba-5bd16632ec99"
+      },
+      {
+        "type": "id",
+        "target": "ed1e6f52-b16f-44e0-ab87-a78584045d95",
+        "source": "ae7ddcb7-5d87-4c15-9eba-5bd16632ec99"
+      },
+      {
+        "type": "id",
+        "target": "fe0e9416-19a3-4348-b76b-73363fdc89e0",
+        "source": "1c2021de-b9da-4923-99ec-fded17c2ad4c"
+      },
+      {
+        "type": "id",
+        "target": "f7da64db-82e6-4760-a3c6-7b0ed9a4e7bb",
+        "source": "1c2021de-b9da-4923-99ec-fded17c2ad4c"
+      },
+      {
+        "type": "id",
+        "target": "ec864691-4d97-490a-9439-ad13e09a6b5d",
+        "source": "1aaddec5-7288-4492-bab8-692098a50a58"
+      },
+      {
+        "type": "id",
+        "target": "92e35bbc-c662-47c2-b441-fd8695fee1f6",
+        "source": "1aaddec5-7288-4492-bab8-692098a50a58"
+      },
+      {
+        "type": "id",
+        "target": "9b0b72e9-2759-4a0c-9870-a9ee74c0bbeb",
+        "source": "b10cabff-a933-4d6e-aa50-8a63df3e4021"
+      },
+      {
+        "type": "id",
+        "target": "00775a4b-e515-42f1-896d-eae818f77481",
+        "source": "b10cabff-a933-4d6e-aa50-8a63df3e4021"
+      },
+      {
+        "type": "id",
+        "target": "1aaddec5-7288-4492-bab8-692098a50a58",
+        "source": "b10cabff-a933-4d6e-aa50-8a63df3e4021"
+      },
+      {
+        "type": "id",
+        "target": "be6298e3-b248-45d6-8b7b-ea49cefb686d",
+        "source": "b10cabff-a933-4d6e-aa50-8a63df3e4021"
+      },
+      {
+        "type": "id",
+        "target": "2b3a351a-9dc8-411a-84c9-746f49151541",
+        "source": "b10cabff-a933-4d6e-aa50-8a63df3e4021"
+      },
+      {
+        "type": "id",
+        "target": "b10cabff-a933-4d6e-aa50-8a63df3e4021",
+        "source": "92dfd3b0-91e2-4e02-b6e1-00afa0c86f6e"
+      },
+      {
+        "type": "id",
+        "target": "1aaddec5-7288-4492-bab8-692098a50a58",
+        "source": "92dfd3b0-91e2-4e02-b6e1-00afa0c86f6e"
+      },
+      {
+        "type": "id",
+        "target": "4b68a874-9d45-4eb6-9b1d-57c500d21a7a",
+        "source": "71f58f7a-aa92-4ee7-a23f-c69930f88f11"
+      },
+      {
+        "type": "id",
+        "target": "f1fd751f-5939-4a86-b6fd-e2b82eab6ebb",
+        "source": "71f58f7a-aa92-4ee7-a23f-c69930f88f11"
+      },
+      {
+        "type": "id",
+        "target": "f615e59a-1b4f-4a36-8d1a-fce49bf683e9",
+        "source": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a"
+      },
+      {
+        "type": "id",
+        "target": "4b68a874-9d45-4eb6-9b1d-57c500d21a7a",
+        "source": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a"
+      },
+      {
+        "type": "id",
+        "target": "71f58f7a-aa92-4ee7-a23f-c69930f88f11",
+        "source": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a"
+      },
+      {
+        "type": "id",
+        "target": "b83058df-677b-4200-bd79-3bd89c0e7221",
+        "source": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a"
+      },
+      {
+        "type": "id",
+        "target": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0",
+        "source": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a"
+      },
+      {
+        "type": "id",
+        "target": "dcd41c7c-2452-48ab-b860-ab6f6cf34282",
+        "source": "1e8804b5-bcad-4065-9a2a-d48ab29a6c3a"
+      },
+      {
+        "type": "id",
+        "target": "21cd2a48-a9bb-4564-b42d-6c94b583f0a8",
+        "source": "a4653e16-456a-4127-85f5-8c5d536bea16"
+      },
+      {
+        "type": "id",
+        "target": "7b0de39e-0dc0-405b-8587-31064d8f4ab3",
+        "source": "a4653e16-456a-4127-85f5-8c5d536bea16"
+      },
+      {
+        "type": "id",
+        "target": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0",
+        "source": "a4653e16-456a-4127-85f5-8c5d536bea16"
+      },
+      {
+        "type": "id",
+        "target": "dcd41c7c-2452-48ab-b860-ab6f6cf34282",
+        "source": "7e29602a-e2b1-4573-9695-53361020685e"
+      },
+      {
+        "type": "id",
+        "target": "92dfd3b0-91e2-4e02-b6e1-00afa0c86f6e",
+        "source": "7e29602a-e2b1-4573-9695-53361020685e"
+      },
+      {
+        "type": "id",
+        "target": "be6298e3-b248-45d6-8b7b-ea49cefb686d",
+        "source": "7e29602a-e2b1-4573-9695-53361020685e"
+      },
+      {
+        "type": "id",
+        "target": "bbc78695-e3dc-4dfa-90ca-5dab51af77c3",
+        "source": "988a1f70-6272-4cbf-ad42-6ab03f787e18"
+      },
+      {
+        "type": "id",
+        "target": "f1fd751f-5939-4a86-b6fd-e2b82eab6ebb",
+        "source": "988a1f70-6272-4cbf-ad42-6ab03f787e18"
+      },
+      {
+        "type": "id",
+        "target": "4b68a874-9d45-4eb6-9b1d-57c500d21a7a",
+        "source": "988a1f70-6272-4cbf-ad42-6ab03f787e18"
+      },
+      {
+        "type": "id",
+        "target": "988a1f70-6272-4cbf-ad42-6ab03f787e18",
+        "source": "f1fd751f-5939-4a86-b6fd-e2b82eab6ebb"
+      },
+      {
+        "type": "id",
+        "target": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0",
+        "source": "dcd41c7c-2452-48ab-b860-ab6f6cf34282"
+      },
+      {
+        "type": "id",
+        "target": "58d3a07b-4925-4ba2-8902-fa6a148d0d16",
+        "source": "85611eff-4d7c-4e5c-8169-dfc70383df0c"
+      },
+      {
+        "type": "id",
+        "target": "ed1e6f52-b16f-44e0-ab87-a78584045d95",
+        "source": "85611eff-4d7c-4e5c-8169-dfc70383df0c"
+      },
+      {
+        "type": "id",
+        "target": "d0d3dd54-2c7b-4f75-9fc8-dd5e89895143",
+        "source": "6e922ae1-6967-4ba7-b96b-972e006bab3b"
+      },
+      {
+        "type": "id",
+        "target": "a2a9f2cc-2e48-4c74-9f58-e4caae4dc267",
+        "source": "6e922ae1-6967-4ba7-b96b-972e006bab3b"
+      },
+      {
+        "type": "id",
+        "target": "b10cabff-a933-4d6e-aa50-8a63df3e4021",
+        "source": "6e922ae1-6967-4ba7-b96b-972e006bab3b"
+      },
+      {
+        "type": "id",
+        "target": "b5ad19df-c227-49f0-8079-56d5ff96da00",
+        "source": "6e922ae1-6967-4ba7-b96b-972e006bab3b"
+      },
+      {
+        "type": "id",
+        "target": "e27c7b62-e338-4056-917d-a544725d91aa",
+        "source": "6e922ae1-6967-4ba7-b96b-972e006bab3b"
+      },
+      {
+        "type": "id",
+        "target": "7b0de39e-0dc0-405b-8587-31064d8f4ab3",
+        "source": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0"
+      },
+      {
+        "type": "id",
+        "target": "7b0de39e-0dc0-405b-8587-31064d8f4ab3",
+        "source": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0"
+      },
+      {
+        "type": "id",
+        "target": "175c332b-8650-4375-ad83-21b28bd00ef9",
+        "source": "3bdb6e54-a072-4c06-a1c6-92441fe03a62"
+      },
+      {
+        "type": "id",
+        "target": "93e55fc1-479b-4504-9900-c69b45683bef",
+        "source": "3bdb6e54-a072-4c06-a1c6-92441fe03a62"
+      },
+      {
+        "type": "id",
+        "target": "f7833289-8575-47ec-8959-c5701fd705cd",
+        "source": "0c0ade61-f327-45b8-bfce-2a9ea38bbede"
+      },
+      {
+        "type": "id",
+        "target": "0c0ade61-f327-45b8-bfce-2a9ea38bbede",
+        "source": "26f87673-2230-422b-b3e5-82614371be1d"
+      },
+      {
+        "type": "id",
+        "target": "0c0ade61-f327-45b8-bfce-2a9ea38bbede",
+        "source": "387a1422-ff3c-47a9-9ad5-6e5162caaa39"
+      },
+      {
+        "type": "id",
+        "target": "e73b36c6-55a0-451d-b5b9-0aa49cde7b4c",
+        "source": "387a1422-ff3c-47a9-9ad5-6e5162caaa39"
+      },
+      {
+        "type": "id",
+        "target": "7b0de39e-0dc0-405b-8587-31064d8f4ab3",
+        "source": "3e9a61d4-5a60-4ec9-8d61-336d28129a62"
+      },
+      {
+        "type": "id",
+        "target": "1c2021de-b9da-4923-99ec-fded17c2ad4c",
+        "source": "92e35bbc-c662-47c2-b441-fd8695fee1f6"
+      },
+      {
+        "type": "id",
+        "target": "f615e59a-1b4f-4a36-8d1a-fce49bf683e9",
+        "source": "92e35bbc-c662-47c2-b441-fd8695fee1f6"
+      },
+      {
+        "type": "id",
+        "target": "dcd41c7c-2452-48ab-b860-ab6f6cf34282",
+        "source": "69d1972a-e34e-4508-822a-350505d17b33"
+      },
+      {
+        "type": "id",
+        "target": "8ab6b612-c794-4ab8-89d2-1a0613c324e8",
+        "source": "ec864691-4d97-490a-9439-ad13e09a6b5d"
+      },
+      {
+        "type": "id",
+        "target": "1c2021de-b9da-4923-99ec-fded17c2ad4c",
+        "source": "ec864691-4d97-490a-9439-ad13e09a6b5d"
+      },
+      {
+        "type": "id",
+        "target": "a4653e16-456a-4127-85f5-8c5d536bea16",
+        "source": "7b0de39e-0dc0-405b-8587-31064d8f4ab3"
+      },
+      {
+        "type": "id",
+        "target": "9339d3ae-7fe7-449e-9c88-d8e07fea73e0",
+        "source": "7b0de39e-0dc0-405b-8587-31064d8f4ab3"
+      },
+      {
+        "type": "id",
+        "target": "3e9a61d4-5a60-4ec9-8d61-336d28129a62",
+        "source": "7b0de39e-0dc0-405b-8587-31064d8f4ab3"
+      },
+      {
+        "type": "id",
+        "target": "ec164ac0-63a4-4fce-aac7-c1221e193b1e",
+        "source": "a2b9b98b-907f-48a7-ac83-f39dae4bc06f"
+      },
+      {
+        "type": "id",
+        "target": "1f2728d2-482f-4e66-98b5-ca7348c55e44",
+        "source": "d9ea85cd-0b6d-46bd-a3bd-a4f21e94e133"
+      },
+      {
+        "type": "id",
+        "target": "29c0e899-9926-4809-8459-98c643753688",
+        "source": "e48c630d-f50c-4047-91ed-f1574d9375ce"
+      },
+      {
+        "type": "id",
+        "target": "c1983e31-a653-41ed-9eee-b33d9418bef8",
+        "source": "e48c630d-f50c-4047-91ed-f1574d9375ce"
+      },
+      {
+        "type": "id",
+        "target": "a6dc2318-8b5c-44d9-b1b0-ea25a0645c49",
+        "source": "e48c630d-f50c-4047-91ed-f1574d9375ce"
+      },
+      {
+        "type": "id",
+        "target": "bde38df4-5663-4fb9-8a9f-8dd5733f778b",
+        "source": "e48c630d-f50c-4047-91ed-f1574d9375ce"
+      },
+      {
+        "type": "id",
+        "target": "788c42ea-26a6-4328-85ff-00b6840165d5",
+        "source": "c1983e31-a653-41ed-9eee-b33d9418bef8"
+      },
+      {
+        "type": "id",
+        "target": "bfaf8bce-d719-469b-9d78-2ec3fde0d0f7",
+        "source": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      },
+      {
+        "type": "id",
+        "target": "e48c630d-f50c-4047-91ed-f1574d9375ce",
+        "source": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      },
+      {
+        "type": "id",
+        "target": "29c0e899-9926-4809-8459-98c643753688",
+        "source": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      },
+      {
+        "type": "id",
+        "target": "e48c630d-f50c-4047-91ed-f1574d9375ce",
+        "source": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      },
+      {
+        "type": "id",
+        "target": "c1983e31-a653-41ed-9eee-b33d9418bef8",
+        "source": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      },
+      {
+        "type": "id",
+        "target": "a6dc2318-8b5c-44d9-b1b0-ea25a0645c49",
+        "source": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      },
+      {
+        "type": "id",
+        "target": "3e93ea69-86d7-42b6-97c3-dd5de860d233",
+        "source": "2b3a351a-9dc8-411a-84c9-746f49151541"
+      }
+    ],
+    "tags": [
+      "mathematics",
+      "information_theory",
+      "claude_shannon",
+      "videos",
+      "computer_science",
+      "graph_theory",
+      "reducible_youtube",
+      "personal_identity",
+      "psychological_fission",
+      "psychological_fusion",
+      "personhood",
+      "computer",
+      "artificial_intelligence",
+      "cognitive_science",
+      "philosophy_of_mind",
+      "mind",
+      "buddhism",
+      "caring",
+      "compassion",
+      "einfühlung",
+      "empathy",
+      "entscheidungsfindung",
+      "psychology",
+      "psychology/social_psychology",
+      "social_psychology",
+      "social_science",
+      "social_science/sociology",
+      "sociology",
+      "ai_safety",
+      "robert_miles",
+      "science_communication",
+      "ai_alignment",
+      "anthropology",
+      "cooperation",
+      "intelligence",
+      "robin_dunbar",
+      "social",
+      "connection",
+      "zettelkasten",
+      "niklas_luhmann",
+      "research",
+      "creativity",
+      "note_taking",
+      "#artificial_intelligence",
+      "#robert_miles",
+      "#utility_function",
+      "#world_states",
+      "computerphile_youtube",
+      "stop_button_problem",
+      "instrumental_goals",
+      "generality",
+      "tabletop",
+      "deck_builder",
+      "git",
+      "version_control",
+      "game_design",
+      "memory",
+      "notetaking",
+      "rpg_characters",
+      "Project",
+      "rpg",
+      "psychological_continuity",
+      "freedom",
+      "meanings",
+      "arithmetic",
+      "calculation",
+      "effective_altruism",
+      "generalized_compassion",
+      "against_empathy",
+      "suffering",
+      "free_software",
+      "social_media",
+      "federated",
+      "Dailies",
+      "Weeklies",
+      "Monthlies",
+      "Journal",
+      "keybinds",
+      "controls",
+      "keyboard_navigation",
+      "text_editing",
+      "editing",
+      "vim",
+      "learning",
+      "org_roam",
+      "beginning",
+      "start",
+      "tutorial",
+      "music",
+      "song",
+      "unwritten_natasha_bedingfield",
+      "natasha_bedingfield",
+      "unwritten_unwritten",
+      "unwritten",
+      "self-determination",
+      "optimism",
+      "happiness",
+      "creep_radiohead",
+      "creep_pablo_honey",
+      "radiohead_creep",
+      "chromatic_mediant",
+      "mode_mixture",
+      "chord_loop",
+      "minor_iv",
+      "anxiety",
+      "love",
+      "self-doubt",
+      "vampire",
+      "olivia_rodrigo",
+      "olivia_rodrigo_guts",
+      "chvrches",
+      "hayley_williams",
+      "every_open_eye_chvrches",
+      "STUB",
+      "dodie",
+      "threesome",
+      "in_the_middle_dodie",
+      "you_dodie",
+      "talking_heads",
+      "once_in_a_lifetime_talking_heads",
+      "bewilderment",
+      "confusion",
+      "nostalgia",
+      "elo",
+      "electric_light_orchestra",
+      "pop_music",
+      "rock_music",
+      "out_of_the_blue-electric_light_orchestra",
+      "happy",
+      "longing",
+      "wavelength",
+      "main",
+      "color",
+      "dailies",
+      "2024_April",
+      "2024",
+      "April",
+      "March",
+      "2024_March",
+      "April_2024",
+      "2020",
+      "Coronavirus",
+      "COVID_19",
+      "September",
+      "October",
+      "October_19",
+      "October_17",
+      "October_16",
+      "October_15",
+      "October_13",
+      "October_12",
+      "October_11",
+      "October_10",
+      "October_09",
+      "October_08",
+      "October_07",
+      "board_game",
+      "bias",
+      "recipes",
+      "cooking",
+      "asparagus",
+      "parmesan",
+      "garlic",
+      "olive_oil",
+      "lighting",
+      "light",
+      "glass",
+      "optics",
+      "video",
+      "playback",
+      "lens",
+      "electronics",
+      "diode",
+      "LED",
+      "camera",
+      "screen_recorder",
+      "computation",
+      "processor",
+      "rigging",
+      "stagecraft",
+      "rope",
+      "span",
+      "GAC",
+      "connectionism",
+      "cognition",
+      "perceptron",
+      "node",
+      "weight_coefficient",
+      "operation",
+      "iterated_binary_operator",
+      "addition",
+      "summation",
+      "multiplication",
+      "hyperoperation",
+      "succession",
+      "subtraction",
+      "division",
+      "exponentiation",
+      "root_extraction",
+      "logarithm",
+      "tetration",
+      "super-root",
+      "super-logarithm",
+      "pentation",
+      "evolution",
+      "biology",
+      "mutation",
+      "natural_selection",
+      "genetic_drift",
+      "behaviorism",
+      "bf_skinner",
+      "radical_behaviorism",
+      "trigonometry",
+      "right_triangles",
+      "sin",
+      "trigonometric_ratio",
+      "electrical_power",
+      "dc_current",
+      "electricity",
+      "edison",
+      "elctrical_power",
+      "ac_current",
+      "standard",
+      "tesla",
+      "three_phase",
+      "safety",
+      "ai",
+      "philosophy",
+      "ethology",
+      "linguistics",
+      "perception",
+      "algorithm",
+      "gradient_descent",
+      "gradient",
+      "calculus",
+      "optimization",
+      "derivative",
+      "john_watson",
+      "history_of_science",
+      "brian_eno",
+      "music_producer",
+      "music_production",
+      "television",
+      "display",
+      "audio",
+      "monitor",
+      "downstage_monitor",
+      "color_space",
+      "gamut",
+      "physics",
+      "elctromagnetism",
+      "models",
+      "light_spectrum",
+      "elctromagnetic_spectrum",
+      "expertise",
+      "media",
+      "gell-mann_amnesia_effect",
+      "film_making",
+      "video_editing",
+      "video_production",
+      "special_effects",
+      "sfx",
+      "recording",
+      "cinematography",
+      "frame_rate",
+      "shutter_speed",
+      "speakon",
+      "nl4",
+      "power_connector",
+      "loudspeaker",
+      "pa_system",
+      "interface",
+      "rgb",
+      "graphics",
+      "parallel_processing",
+      "gpu",
+      "graphics_processing_unit",
+      "cpu",
+      "central_processing_unit",
+      "data",
+      "hard_drive",
+      "ssd",
+      "secondary_memory",
+      "secondary_storage",
+      "pc",
+      "trichromatic",
+      "polychromatic",
+      "automation",
+      "movement",
+      "suspension",
+      "rotation",
+      "translation",
+      "visuals",
+      "sound",
+      "controller",
+      "home",
+      "cleaning",
+      "stagehand",
+      "power_distribution",
+      "computers",
+      "power_supply",
+      "visual_art",
+      "composition",
+      "ratios",
+      "frames",
+      "painting",
+      "photography",
+      "advertisement",
+      "graphic_design",
+      "signal_processing",
+      "photos",
+      "digital_photography",
+      "film_photography",
+      "cameras",
+      "appliance_power",
+      "computer_power",
+      "speakON",
+      "speaker",
+      "public_address",
+      "sound_reinforcement",
+      "successor",
+      "peano_arithmetic",
+      "README",
+      "information",
+      "communication",
+      "bit",
+      "statistics",
+      "stochastic",
+      "pitch",
+      "tone",
+      "timbre",
+      "sinusoid",
+      "power_cable",
+      "nema",
+      "chromaticity",
+      "cone_cells",
+      "color_spaces",
+      "photons",
+      "hsv",
+      "color_schemes",
+      "luminescence",
+      "math",
+      "circle",
+      "right_triangle",
+      "sine",
+      "cosine",
+      "tangent",
+      "cotangent",
+      "cos",
+      "waves",
+      "computer_monitor",
+      "locking_connector",
+      "display_port",
+      "iec",
+      "power_connectors",
+      "appliances",
+      "multimedia",
+      "data_cable",
+      "arthropod",
+      "insect",
+      "personal_knowledge_management",
+      "productivity",
+      "graph",
+      "function",
+      "minus",
+      "fraction",
+      "ratio"
+    ]
+  }
+}
